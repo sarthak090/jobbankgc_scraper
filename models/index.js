@@ -1,0 +1,11 @@
+module.exports.Job = require("./Jobs");
+module.exports.Category = require("./Category");
+module.exports.DynamicCategory = require("./DynamicCategory");
+module.exports.Employer = require("./Employer");
+module.exports.User = require("./User");
+module.exports.SGJob = require("./SGJOB");
+module.exports.Sentences = require("./Sentences");
+module.exports.SentencesOptions = require("./SentencesOptions");
+module.exports.IntroductionSentences = require("./IntroductionSentences");
+module.exports.FeaturedImage = require("./FeaturedImage");
+module.exports.MetaTitle = require("./MetaTitle");

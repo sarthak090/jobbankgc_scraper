@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>
+    <%= job.jobTitle %>
+  </title>
+  <style>
+    div {
+      margin: 10px 0;
+    }
+
+    p.heading {
+      font-size: 20px;
+      font-weight: 600;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>
+    <%= job.jobTitle %>
+
+
+  </h1>
+  <section>
+    <h2>Job Description:</h2>
+    <div>
+      <ul>
+
+        <li> Employer Name: <%= job.employerName %>
+        </li>
+        <li>
+          Position: <%= job.jobTitle %>
+
+        </li>
+        <li>
+          No of Vacancies: <%= job.vacancy%>
+
+        </li>
+        <li>
+          Salary: <%= job.salary%>
+
+        </li>
+        <li>
+          Employment Type: <%= job.jobType%>
+
+        </li>
+        <li>
+          Location: <%= job.joblocation%>
+
+        </li>
+        <li>
+          Shifts: <%= job.shift%>
+
+        </li>
+        <!-- <li>
+          Work setting: Business sector, Private sector
+
+        </li> -->
+      </ul>
+    </div>
+    <div>
+      <p class="heading">Requirements:</p>
+      <%- job.jobRequirement%>
+
+        <!-- Languages: Candidates must have knowledge of the English Language <br>
+        Education: Candidates don’t need standard educational qualifications<br>
+        Experience: Candidates should have experience of 1 to less than 7 months<br>
+        Computer and technology knowledge: Internet<br>
+        Security and safety: Basic security clearance<br> -->
+        <div>
+          <p class="heading">
+            Physical Requirements:</p>
+          The candidates should be able to work in a fast-paced environment
+          <p class="heading">
+            Other Requirements:</p>
+          The candidate should be client focus, organized
+          The candidates should have excellent oral communication, and be able to work as a team player
+          <p class="heading">
+            Candidate Status:
+          </p>
+          Candidate must be a Canadian Citizen or temporary or permanent resident of Canada
+          Candidate must have legal authorized (Work Permit) to work in Canada
+          If Candidates unable to fulfill above mentioned requirements, don’t apply for the position
+        </div>
+        <div>
+          <p class="heading">Responsibilities:</p>
+          The candidates should be able to access and process information, address customers’ complaints or concerns
+          The candidates should be able to answer inquiries and provide information to customers
+          The candidates should be able to arrange for billing for services
+          The candidates should be able to explain the type and cost of services offered
+          The candidates should be able to sell merchandise
+        </div>
+        <div>
+          <p class="heading">
+            Benefits:</p>
+          The candidates will get bonus, free parking, learning/training paid by employer, subsidised public
+          transportation,
+          and team building opportunities
+        </div>
+        <div>
+
+          <%- job.howToApply%>
+        </div>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

@@ -1,0 +1,2012 @@
+[
+  {
+    "meta": {
+      "id": "38261837"
+    },
+    "_id": "645388e0ffa1bdb36d68b594",
+    "id": 38261837,
+    "LMIA": "No",
+    "jobTitle": "registered nurse (R.N.)",
+    "employerName": "Western Regional Health Authority",
+    "website": "https://employment.westernhealth.nl.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$69,693 to $86,541YEAR annually (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "",
+    "joblocation": "Norris Point, NL",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://employment.westernhealth.nl.ca\" target=\"_blank\">https://employment.westernhealth.nl.ca</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>2023000500<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p>",
+    "slug": "registered-nurse-(r.n.)-38261837",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "69,693-86,541",
+          "unitText": "YEAR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Western Regional Health Authority",
+        "sameAs": "https://employment.westernhealth.nl.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Norris Point",
+          "addressRegion": "Newfoundland and Labrador",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://employment.westernhealth.nl.ca"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse (R.N.)",
+      "description": "Look at this job opportunity for a registered nurse (R.N.) at Western Regional Health Authority at Norris Point, NL",
+      "datePosted": "2023-05-02",
+      "validThrough": "2023-05-16",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e0ffa1bdb36d68b595"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38270403"
+    },
+    "_id": "645388e0ffa1bdb36d68b59a",
+    "id": 38270403,
+    "LMIA": "No",
+    "jobTitle": "registered nurse (R.N.)",
+    "employerName": "Western Regional Health Authority",
+    "website": "https://employment.westernhealth.nl.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$65,598 to $81,217.5YEAR annually (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "",
+    "joblocation": "Corner Brook, NL",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://employment.westernhealth.nl.ca\" target=\"_blank\">https://employment.westernhealth.nl.ca</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>2023000525<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p>",
+    "slug": "registered-nurse-(r.n.)-38270403",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "65,598-81,217.5",
+          "unitText": "YEAR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Western Regional Health Authority",
+        "sameAs": "https://employment.westernhealth.nl.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Corner Brook",
+          "addressRegion": "Newfoundland and Labrador",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://employment.westernhealth.nl.ca"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse (R.N.)",
+      "description": "Look at this job opportunity for a registered nurse (R.N.) at Western Regional Health Authority at Corner Brook, NL",
+      "datePosted": "2023-05-03",
+      "validThrough": "2023-05-17",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e0ffa1bdb36d68b59b"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38237198"
+    },
+    "_id": "645388e0ffa1bdb36d68b59d",
+    "id": 38237198,
+    "LMIA": "No",
+    "jobTitle": "registered nurse - public and community health",
+    "employerName": "Western Regional Health Authority",
+    "website": "https://employment.westernhealth.nl.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$35.74 to $44.38HOUR hourly (to be negotiated)",
+    "jobType": "Casual employmentPart time",
+    "shift": "",
+    "joblocation": "Corner Brook, NL",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 to less than 7 months</span> </p></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://employment.westernhealth.nl.ca\" target=\"_blank\">https://employment.westernhealth.nl.ca</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>2023000545<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p>",
+    "slug": "registered-nurse-public-and-community-health-38237198",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "35.74-44.38",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Western Regional Health Authority",
+        "sameAs": "https://employment.westernhealth.nl.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Corner Brook",
+          "addressRegion": "Newfoundland and Labrador",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://employment.westernhealth.nl.ca"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse - public and community health",
+      "description": "Look at this job opportunity for a registered nurse - public and community health at Western Regional Health Authority at Corner Brook, NL",
+      "datePosted": "2023-04-28",
+      "validThrough": "2023-05-12",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e0ffa1bdb36d68b59e"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38251358"
+    },
+    "_id": "645388e0ffa1bdb36d68b5a0",
+    "id": 38251358,
+    "LMIA": "No",
+    "jobTitle": "RN (registered nurse)",
+    "employerName": "AGENCE SYLDREA SANTÉ",
+    "website": "http://www.facebook.com/syldrea",
+    "vacancy": "15 vacancies",
+    "salary": "$79.00HOUR hourly",
+    "jobType": "Term or contractFull time",
+    "shift": "Day, Evening, Night, Weekend, On Call",
+    "joblocation": "Longueuil, QC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">French</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>College, CEGEP or other non-university certificate or diploma from a program of 1 year to 2 years</span> </li> <li>or equivalent experience</li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>7 months to less than 1 year</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Government department and/or agency</span> </li> <li> <span>Hospital or home for the aged</span> </li> <li> <span>Nursing home/home for the aged</span> </li> <li> <span>Private residence</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Assess patients to identify appropriate nursing interventions</span> </li> <li> <span>Collaborate to plan, implement, co-ordinate and evaluate patient care</span> </li> <li> <span>Dispense and administer medications and treatments as prescribed by a physician</span> </li> <li> <span>Monitor, assess, address, document and report symptoms and changes in patients' conditions</span> </li> <li> <span>Provide nursing care</span> </li> <li> <span>Supervise licensed practical nurses and other nursing staff</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>CPR Certificate</span> </li> <li> <span>Licensure as a Registered Nurse by provincial or territorial authorities</span> </li> </ul> </div> <div property=\"skills\"> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:syldreasantei@gmail.com\">syldreasantei@gmail.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4 id=\"htaphone\"> By phone <span id=\"tp_unverifiedTelephoneNumber\" class=\"timepickler\"></span> </h4> <p>438-389-6077 <span class=\"textCapitalize\">Between 08:30 AM and 07:30 PM </span> <span id=\"tp_applyByTelephoneNumber\" class=\"timepickler\"></span> </p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Proof of the requested certifications</li></ul> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you available for shift or on-call work?</li> <li>Are you currently legally able to work in Canada?</li> <li>Do you have the above-indicated required certifications?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "rn-(registered-nurse)-38251358",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "79.00",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "AGENCE SYLDREA SANTÉ",
+        "sameAs": "http://www.facebook.com/syldrea",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Longueuil",
+          "addressRegion": "Quebec",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://www.facebook.com/syldrea"
+      },
+      "@type": "JobPosting",
+      "title": "RN (registered nurse)",
+      "description": "Look at this job opportunity for a RN (registered nurse) at AGENCE SYLDREA SANTÉ at Longueuil, QC",
+      "datePosted": "2023-05-01",
+      "validThrough": "2023-05-31",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e0ffa1bdb36d68b5a1"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38253409"
+    },
+    "_id": "645388e0ffa1bdb36d68b5a3",
+    "id": 38253409,
+    "LMIA": "No",
+    "jobTitle": "mental health nurse",
+    "employerName": "Ontario Public Service",
+    "website": "https://www.gojobs.gov.on.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$1,517.86 to $1,895.93WEEKLY weekly (to be negotiated)",
+    "jobType": "Term or contractFull time",
+    "shift": "Day, Evening, Night, Weekend, Shift, To be determined, Morning",
+    "joblocation": "55 Civic RoadScarborough, ONM1L 2K9",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Correctional facility</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>Licensure as a Registered Nurse by provincial or territorial authorities</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>As per collective agreement</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://www.gojobs.gov.on.ca/Preview.aspx?Language=English&amp;JobID=197736\" target=\"_blank\">https://www.gojobs.gov.on.ca/Preview.aspx?Language=English&amp;JobID=197736</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>197736<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Job reference number</li><li>Cover letter</li></ul>",
+    "slug": "mental-health-nurse-38253409",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "1,517.86-1,895.93",
+          "unitText": "WEEKLY"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Ontario Public Service",
+        "sameAs": "https://www.gojobs.gov.on.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Scarborough",
+          "addressRegion": "Ontario",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.gojobs.gov.on.ca"
+      },
+      "@type": "JobPosting",
+      "title": "mental health nurse",
+      "description": "Look at this job opportunity for a mental health nurse at Ontario Public Service at 55 Civic RoadScarborough, ONM1L 2K9",
+      "datePosted": "2023-05-01",
+      "validThrough": "2023-05-20",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e0ffa1bdb36d68b5a4"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38254317"
+    },
+    "_id": "645388e0ffa1bdb36d68b5a6",
+    "id": 38254317,
+    "LMIA": "No",
+    "jobTitle": "public health nurse",
+    "employerName": "Northern Regional Health Authority",
+    "website": "http://www.northernhealthregion.ca/",
+    "vacancy": "1 vacancy",
+    "salary": "$44.13 to $57.63HOUR hourly (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "Day",
+    "joblocation": "1 North AveFlin Flon, MBR8A 1V9",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>2 years to less than 3 years</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Relocation costs covered by employer</span> </li> <li> <span>Willing to relocate</span> </li> <li> <span>Public or community health centre</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Assess patients to identify appropriate nursing interventions</span> </li> <li> <span>Conduct disease screening</span> </li> <li> <span>Deliver health education programs</span> </li> <li> <span>Deliver immunization programs</span> </li> <li> <span>Dispense and administer medications and treatments as prescribed by a physician</span> </li> <li> <span>Provide nursing care</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>Basic Cardiac Life Support (BCLS) Certificate</span> </li> <li> <span>Eligible for licensure as a Registered Nurse by the province/territory of work</span> </li> <li> <span>Licensure as a Registered Nurse by provincial or territorial authorities</span> </li> </ul> </div> <div property=\"experienceRequirements\"> <h3>Experience and specialization</h3> <h4>Area of specialization</h4> <ul class=\"csvlist\"> <li> <span>Infection control</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Security and safety</h4> <ul class=\"csvlist\"> <li> <span>Adult Abuse Registry check</span> </li> <li> <span>Child Abuse Registry check</span> </li> <li> <span>Criminal record check</span> </li> <li> <span>Immunization records</span> </li> </ul> <h4>Transportation/travel information</h4> <ul class=\"csvlist\"> <li> <span>Valid driver's licence</span> </li> <li> <span>Willing to travel</span> </li> </ul> <h4>Work conditions and physical capabilities</h4> <ul class=\"csvlist\"> <li> <span>Attention to detail</span> </li> <li> <span>Bending, crouching, kneeling</span> </li> <li> <span>Fast-paced environment</span> </li> <li> <span>Manual dexterity</span> </li> <li> <span>Physically demanding</span> </li> <li> <span>Sitting</span> </li> <li> <span>Standing for extended periods</span> </li> <li> <span>Tight deadlines</span> </li> <li> <span>Work under pressure</span> </li> </ul> <h4>Personal suitability</h4> <ul class=\"csvlist\"> <li> <span>Accurate</span> </li> <li> <span>Client focus</span> </li> <li> <span>Efficient interpersonal skills</span> </li> <li> <span>Excellent oral communication</span> </li> <li> <span>Excellent written communication</span> </li> <li> <span>Flexibility</span> </li> <li> <span>Initiative</span> </li> <li> <span>Judgement</span> </li> <li> <span>Organized</span> </li> <li> <span>Reliability</span> </li> <li> <span>Team player</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Dental plan</span> </li> <li> <span>Health care plan</span> </li> <li> <span>Vision care benefits</span> </li> </ul> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>As per collective agreement</span> </li> <li> <span>Bonus</span> </li> <li> <span>Mileage paid</span> </li> </ul> <h4>Long term benefits</h4> <ul class=\"csvlist\"> <li> <span>Life insurance</span> </li> <li> <span>Maternity and parental benefits</span> </li> <li> <span>Other benefits</span> </li> <li> <span>Pension plan</span> </li> </ul> <h4>Other benefits</h4> <ul class=\"csvlist\"> <li> <span>Free parking available</span> </li> <li> <span>Parking available</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:recruitwest@nrha.ca\">recruitwest@nrha.ca</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://northernhealthregion.com/job/ff-2023-243-public-health-nurse-nurse-iv/\" target=\"_blank\">https://northernhealthregion.com/job/ff-2023-243-public-health-nurse-nurse-iv/</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>FF-2023-243<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Job reference number</li><li>Cover letter</li></ul> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you currently legally able to work in Canada?</li> <li>Are you willing to relocate for this position?</li> <li>Do you have previous experience in this field of employment?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "public-health-nurse-38254317",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "44.13-57.63",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Northern Regional Health Authority",
+        "sameAs": "http://www.northernhealthregion.ca/",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Flin Flon",
+          "addressRegion": "Manitoba ",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://www.northernhealthregion.ca/"
+      },
+      "@type": "JobPosting",
+      "title": "public health nurse",
+      "description": "Look at this job opportunity for a public health nurse at Northern Regional Health Authority at 1 North AveFlin Flon, MBR8A 1V9",
+      "datePosted": "2023-05-01",
+      "validThrough": "2023-05-31",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e0ffa1bdb36d68b5a7"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38237165"
+    },
+    "_id": "645388e0ffa1bdb36d68b5a9",
+    "id": 38237165,
+    "LMIA": "No",
+    "jobTitle": "registered nurse (R.N.)",
+    "employerName": "Western Regional Health Authority",
+    "website": "https://employment.westernhealth.nl.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$65,598 to $81,217.5YEAR annually (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "",
+    "joblocation": "Stephenville, NL",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://employment.westernhealth.nl.ca\" target=\"_blank\">https://employment.westernhealth.nl.ca</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>2023000535<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p>",
+    "slug": "registered-nurse-(r.n.)-38237165",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "65,598-81,217.5",
+          "unitText": "YEAR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Western Regional Health Authority",
+        "sameAs": "https://employment.westernhealth.nl.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Stephenville",
+          "addressRegion": "Newfoundland and Labrador",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://employment.westernhealth.nl.ca"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse (R.N.)",
+      "description": "Look at this job opportunity for a registered nurse (R.N.) at Western Regional Health Authority at Stephenville, NL",
+      "datePosted": "2023-04-28",
+      "validThrough": "2023-05-12",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e0ffa1bdb36d68b5aa"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38236693"
+    },
+    "_id": "645388e1ffa1bdb36d68b5ac",
+    "id": 38236693,
+    "LMIA": "No",
+    "jobTitle": "registered nurse (R.N.)",
+    "employerName": "Ontario Public Service",
+    "website": "https://www.gojobs.gov.on.ca",
+    "vacancy": "2 vacancies",
+    "salary": "$1,408.52 to $1,756.03WEEKLY weekly (to be negotiated)",
+    "jobType": "Term or contractFull time",
+    "shift": "Shift, On Call, To be determined",
+    "joblocation": "89 Richmond BlvdNapanee, ONK7R 3S1",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Correctional facility</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>Licensure as a Registered Nurse by provincial or territorial authorities</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>As per collective agreement</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://www.gojobs.gov.on.ca/Preview.aspx?Language=English&amp;JobID=196991\" target=\"_blank\">https://www.gojobs.gov.on.ca/Preview.aspx?Language=English&amp;JobID=196991</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>196991<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Job reference number</li><li>Cover letter</li></ul>",
+    "slug": "registered-nurse-(r.n.)-38236693",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "1,408.52-1,756.03",
+          "unitText": "WEEKLY"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Ontario Public Service",
+        "sameAs": "https://www.gojobs.gov.on.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Napanee",
+          "addressRegion": "Ontario",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.gojobs.gov.on.ca"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse (R.N.)",
+      "description": "Look at this job opportunity for a registered nurse (R.N.) at Ontario Public Service at 89 Richmond BlvdNapanee, ONK7R 3S1",
+      "datePosted": "2023-04-28",
+      "validThrough": "2023-05-13",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e1ffa1bdb36d68b5ad"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38215593"
+    },
+    "_id": "645388e1ffa1bdb36d68b5af",
+    "id": 38215593,
+    "LMIA": "No",
+    "jobTitle": "nurse",
+    "employerName": "Tamara Hodgson",
+    "vacancy": "3 vacancies",
+    "salary": "$20.00 to $25.00HOUR hourly (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "Day, Evening, Night, Weekend, Shift, Overtime, On Call, Flexible Hours, To be determined, Early Morning, Morning",
+    "joblocation": "Victoria, BC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>3 years to less than 5 years</span> </p> <div property=\"skills\"> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:hodgsontamara1973@gmail.com\">hodgsontamara1973@gmail.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Cover letter</li><li>Letter of recommendation</li><li>Proof of the requested certifications</li><li>Highest level of education and name of institution where it was completed</li><li>Copy of latest school transcript</li></ul> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you available for shift or on-call work?</li> <li>Are you currently legally able to work in Canada?</li> <li>Are you willing to relocate for this position?</li> <li>Do you have previous experience in this field of employment?</li> <li>Do you have the above-indicated required certifications?</li> <li>What is the highest level of study you have completed?</li> <li>What is your current field of study?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "nurse-38215593",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "20.00-25.00",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Tamara Hodgson",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Victoria",
+          "addressRegion": "British Columbia",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://canadajobbank.org/worker-landscape/#webpage"
+      },
+      "@type": "JobPosting",
+      "title": "nurse",
+      "description": "Look at this job opportunity for a nurse at Tamara Hodgson at Victoria, BC",
+      "datePosted": "2023-04-26",
+      "validThrough": "2023-05-26",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e1ffa1bdb36d68b5b0"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38271694"
+    },
+    "_id": "645388e1ffa1bdb36d68b5b2",
+    "id": 38271694,
+    "LMIA": "No",
+    "jobTitle": "nurse",
+    "employerName": "ALTITUDE HEALTHCARE SERVICES",
+    "vacancy": "2 vacancies",
+    "salary": "$39.56HOUR hourly",
+    "jobType": "Permanent employmentFull time",
+    "shift": "",
+    "joblocation": "110 Minto Cres.,Kenora, ONP9N 3K2",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>College/CEGEP</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 year to less than 2 years</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Hospital or home for the aged</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Assess patients to identify appropriate nursing interventions</span> </li> <li> <span>Assist in surgery and other medical procedures</span> </li> <li> <span>Collaborate to plan, implement, co-ordinate and evaluate patient care</span> </li> <li> <span>Conduct disease screening</span> </li> <li> <span>Deliver health education programs</span> </li> <li> <span>Deliver immunization programs</span> </li> <li> <span>Dispense and administer medications and treatments as prescribed by a physician</span> </li> <li> <span>Engage in research activities related to nursing</span> </li> <li> <span>Monitor, assess, address, document and report symptoms and changes in patients' conditions</span> </li> <li> <span>Operate or monitor medical apparatus or equipment</span> </li> <li> <span>Provide consultative services regarding issues relevant to nursing profession and nursing practice</span> </li> <li> <span>Provide nursing care</span> </li> <li> <span>Provide supportive counselling and life skills programming</span> </li> <li> <span>Supervise licensed practical nurses and other nursing staff</span> </li> </ul> <h4>Supervision</h4> <ul class=\"csvlist\"> <li> <span>Staff in various areas of responsibility</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>Eligible for licensure as a Registered Nurse by the province/territory of work</span> </li> </ul> </div> <div property=\"experienceRequirements\"> <h3>Experience and specialization</h3> <h4>Area of specialization</h4> <ul class=\"csvlist\"> <li> <span>Emergency room</span> </li> <li> <span>Intensive care</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Dental plan</span> </li> <li> <span>Health care plan</span> </li> <li> <span>Paramedical services coverage</span> </li> <li> <span>Vision care benefits</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:careers.altitudehealth@gmail.com\">careers.altitudehealth@gmail.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p>",
+    "slug": "nurse-38271694",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "39.56",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "ALTITUDE HEALTHCARE SERVICES",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Kenora",
+          "addressRegion": "Ontario",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://canadajobbank.org/worker-landscape/#webpage"
+      },
+      "@type": "JobPosting",
+      "title": "nurse",
+      "description": "Look at this job opportunity for a nurse at ALTITUDE HEALTHCARE SERVICES at 110 Minto Cres.,Kenora, ONP9N 3K2",
+      "datePosted": "2023-05-03",
+      "validThrough": "2023-05-17",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e1ffa1bdb36d68b5b3"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38188038"
+    },
+    "_id": "645388e1ffa1bdb36d68b5b5",
+    "id": 38188038,
+    "LMIA": "No",
+    "jobTitle": "nurse",
+    "employerName": "FIRSTCLASS SUPPORT SERVICES LTD",
+    "website": "https://www.firstclasssupportservices.com/",
+    "vacancy": "2 vacancies",
+    "salary": "$100.00HOUR hourly",
+    "jobType": "Permanent employmentFull time",
+    "shift": "",
+    "joblocation": "Burnaby, BC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>5 years or more</span> </p> <div property=\"skills\"> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:blessing@firstclasssupportservices.com\">blessing@firstclasssupportservices.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you currently legally able to work in Canada?</li> <li>Do you currently reside in proximity to the advertised location?</li> <li>Do you have previous experience in this field of employment?</li> <li>Do you have the above-indicated required certifications?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "nurse-38188038",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "100.00",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "FIRSTCLASS SUPPORT SERVICES LTD",
+        "sameAs": "https://www.firstclasssupportservices.com/",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Burnaby",
+          "addressRegion": "British Columbia",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.firstclasssupportservices.com/"
+      },
+      "@type": "JobPosting",
+      "title": "nurse",
+      "description": "Look at this job opportunity for a nurse at FIRSTCLASS SUPPORT SERVICES LTD at Burnaby, BC",
+      "datePosted": "2023-04-25",
+      "validThrough": "2023-05-25",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e1ffa1bdb36d68b5b6"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38269939"
+    },
+    "_id": "645388e1ffa1bdb36d68b5bb",
+    "id": 38269939,
+    "LMIA": "No",
+    "jobTitle": "registered nurse (R.N.)",
+    "employerName": "EXTENDICARE (CANADA) INC.",
+    "website": "http://www.extendicare.com/careers",
+    "vacancy": "2 vacancies",
+    "salary": "$34.96 to $52.92HOUR hourly (to be negotiated)",
+    "jobType": "Term or contractPart time leading to full time",
+    "shift": "Evening",
+    "joblocation": "Sudbury, ON",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 to less than 7 months</span> </p> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Assess patients to identify appropriate nursing interventions</span> </li> <li> <span>Collaborate to plan, implement, co-ordinate and evaluate patient care</span> </li> <li> <span>Dispense and administer medications and treatments as prescribed by a physician</span> </li> <li> <span>Monitor, assess, address, document and report symptoms and changes in patients' conditions</span> </li> <li> <span>Provide consultative services regarding issues relevant to nursing profession and nursing practice</span> </li> <li> <span>Provide nursing care</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>Eligible for licensure as a Registered Psychiatric Nurse by the province of work</span> </li> </ul> </div> <div property=\"skills\"> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://extendicare.wd10.myworkdayjobs.com/Extendicare2023?locations=2c2356806a90101cade011a43b470000\" target=\"_blank\">https://extendicare.wd10.myworkdayjobs.com/Extendicare2023?locations=2c2356806a90101cade011a43b470000</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you currently legally able to work in Canada?</li> <li>Do you currently reside in proximity to the advertised location?</li> <li>Do you have the above-indicated required certifications?</li> <li>What is the highest level of study you have completed?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "registered-nurse-(r.n.)-38269939",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "34.96-52.92",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "EXTENDICARE (CANADA) INC.",
+        "sameAs": "http://www.extendicare.com/careers",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Sudbury",
+          "addressRegion": "Ontario",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://www.extendicare.com/careers"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse (R.N.)",
+      "description": "Look at this job opportunity for a registered nurse (R.N.) at EXTENDICARE (CANADA) INC. at Sudbury, ON",
+      "datePosted": "2023-05-03",
+      "validThrough": "2023-06-02",
+      "employmentType": ["Part time"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e1ffa1bdb36d68b5bc"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38212334"
+    },
+    "_id": "645388e1ffa1bdb36d68b5be",
+    "id": 38212334,
+    "LMIA": "No",
+    "jobTitle": "RN (registered nurse)",
+    "employerName": "Centre de Recherche Musculo-Squelettique",
+    "website": "http://crmscanada.com",
+    "vacancy": "1 vacancy",
+    "salary": "$25.00 to $50.00HOUR hourly (to be negotiated)",
+    "jobType": "Permanent employmentPart time leading to full time",
+    "shift": "Day, Flexible Hours",
+    "joblocation": "Trois-Rivières, QC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">Bilingual</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>College, CEGEP or other non-university certificate or diploma from a program of 1 year to 2 years</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>2 years to less than 3 years</span> </p> <div property=\"skills\"> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Health care plan</span> </li> <li> <span>Vision care benefits</span> </li> </ul> <h4>Long term benefits</h4> <ul class=\"csvlist\"> <li> <span>Life insurance</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <span property=\"directApply\" class=\"wb-inv\">1</span> <section id=\"alert-share-container\" class=\"alert alert-info wb-inv\" aria-hidden=\"true\"> <ul><li>You have successfully applied for this job through Job Bank!</li></ul> </section> <section id=\"alert-withdraw-container\" class=\"alert alert-info wb-inv\" aria-hidden=\"true\"> <ul><li>You have successfully withdrawn your application for this job.</li></ul> </section> <span property=\"directApply\" class=\"wb-inv\">1</span> <h4>By applying directly on Job Bank (Direct Apply) <a href=\"#lightbox-resumesharing\" role=\"button\" class=\"dialog-help\" aria-controls=\"shareResumeInfo\" id=\"shareResumeInfo\"><span class=\"fa fa-question\"></span><span class=\"wb-inv\">Help - Applying directly on Job Bank (Direct Apply)</span></a> </h4> <section id=\"lightbox-resumesharing\" class=\" mfp-hide modal-dialog modal-content overlay-def \"> <header class=\"modal-header\"> <h2 class=\"modal-title\">Applying directly on Job Bank (Direct Apply) - Help</h2> </header> <div class=\"modal-body\"><p>You need <a href=\"https://www.jobbank.gc.ca/reg/instructions\">a Plus account</a> to apply for this job directly on Job Bank.</p><p>When you click on “Apply on Job Bank”, you will be asked to login to continue. If you already have a resume saved in your Plus account, you will be able to select and share it to apply. Otherwise, you will have to create or upload a new resume first.</p><p>If your application is retained, the employer will contact you using the information provided in your resume.</p> </div> </section><form id=\"applyresumesharing\" name=\"applyresumesharing\" method=\"post\" class=\"applyresumesharing\" enctype=\"application/x-www-form-urlencoded\" action=\"#\"> <p><input id=\"applyresumesharing:redirectbutton\" name=\"applyresumesharing:redirectbutton\" type=\"submit\" value=\"Apply on Job Bank\" class=\"btn btn-primary btn-submit redirectbutton\" data-redirect=\"/jobsearch/jobposting/38212334\"></p><input type=\"hidden\" name=\"applyresumesharing_SUBMIT\" value=\"1\"></form> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:choude@crmscanada.com\">choude@crmscanada.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Cover letter</li><li>References attesting experience</li><li>Letter of recommendation</li><li>Proof of the requested certifications</li></ul> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you available for shift or on-call work?</li> <li>Are you available for the advertised start date?</li> <li>Do you have previous experience in this field of employment?</li> <li>Do you have the above-indicated required certifications?</li> <li>What is the highest level of study you have completed?</li> <li>What is your current field of study?</li> <li>What is your current level of study?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "rn-(registered-nurse)-38212334",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "25.00-50.00",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Centre de Recherche Musculo-Squelettique",
+        "sameAs": "http://crmscanada.com",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Trois-Rivières",
+          "addressRegion": "Quebec",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://crmscanada.com"
+      },
+      "@type": "JobPosting",
+      "title": "RN (registered nurse)",
+      "description": "Look at this job opportunity for a RN (registered nurse) at Centre de Recherche Musculo-Squelettique at Trois-Rivières, QC",
+      "datePosted": "2023-04-26",
+      "validThrough": "2023-05-10",
+      "employmentType": ["Part time"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e1ffa1bdb36d68b5bf"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38270337"
+    },
+    "_id": "645388e1ffa1bdb36d68b5c1",
+    "id": 38270337,
+    "LMIA": "No",
+    "jobTitle": "registered nurse (R.N.)",
+    "employerName": "Western Regional Health Authority",
+    "website": "https://employment.westernhealth.nl.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$65,598 to $81,217.5YEAR annually (to be negotiated)",
+    "jobType": "Term or contractFull time",
+    "shift": "",
+    "joblocation": "Corner Brook, NL",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://employment.westernhealth.nl.ca\" target=\"_blank\">https://employment.westernhealth.nl.ca</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>2023000513<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p>",
+    "slug": "registered-nurse-(r.n.)-38270337",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "65,598-81,217.5",
+          "unitText": "YEAR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Western Regional Health Authority",
+        "sameAs": "https://employment.westernhealth.nl.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Corner Brook",
+          "addressRegion": "Newfoundland and Labrador",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://employment.westernhealth.nl.ca"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse (R.N.)",
+      "description": "Look at this job opportunity for a registered nurse (R.N.) at Western Regional Health Authority at Corner Brook, NL",
+      "datePosted": "2023-05-03",
+      "validThrough": "2023-05-17",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e1ffa1bdb36d68b5c2"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38217162"
+    },
+    "_id": "645388e1ffa1bdb36d68b5c4",
+    "id": 38217162,
+    "LMIA": "No",
+    "jobTitle": "psychiatric and mental health nurse",
+    "employerName": "Province of BC",
+    "website": "http://www.gov.bc.ca/myhr/employment",
+    "vacancy": "3 vacancies",
+    "salary": "$63,647.2 to $83,539.24YEAR annually (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "",
+    "joblocation": "Coquitlam, BC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 to less than 7 months</span> </p></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/98855\" target=\"_blank\">https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/98855</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p>",
+    "slug": "psychiatric-and-mental-health-nurse-38217162",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "63,647.2-83,539.24",
+          "unitText": "YEAR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Province of BC",
+        "sameAs": "http://www.gov.bc.ca/myhr/employment",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Coquitlam",
+          "addressRegion": "British Columbia",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://www.gov.bc.ca/myhr/employment"
+      },
+      "@type": "JobPosting",
+      "title": "psychiatric and mental health nurse",
+      "description": "Look at this job opportunity for a psychiatric and mental health nurse at Province of BC at Coquitlam, BC",
+      "datePosted": "2023-04-26",
+      "validThrough": "2023-05-18",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e1ffa1bdb36d68b5c5"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38270344"
+    },
+    "_id": "645388e2ffa1bdb36d68b5c7",
+    "id": 38270344,
+    "LMIA": "No",
+    "jobTitle": "registered nurse - public and community health",
+    "employerName": "Western Regional Health Authority",
+    "website": "https://employment.westernhealth.nl.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$35.74 to $44.38HOUR hourly (to be negotiated)",
+    "jobType": "Term or contractPart time",
+    "shift": "",
+    "joblocation": "Corner Brook, NL",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 to less than 7 months</span> </p></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://employment.westernhealth.nl.ca\" target=\"_blank\">https://employment.westernhealth.nl.ca</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>2023000579<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p>",
+    "slug": "registered-nurse-public-and-community-health-38270344",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "35.74-44.38",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Western Regional Health Authority",
+        "sameAs": "https://employment.westernhealth.nl.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Corner Brook",
+          "addressRegion": "Newfoundland and Labrador",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://employment.westernhealth.nl.ca"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse - public and community health",
+      "description": "Look at this job opportunity for a registered nurse - public and community health at Western Regional Health Authority at Corner Brook, NL",
+      "datePosted": "2023-05-03",
+      "validThrough": "2023-05-17",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e2ffa1bdb36d68b5c8"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38260388"
+    },
+    "_id": "645388e2ffa1bdb36d68b5ca",
+    "id": 38260388,
+    "LMIA": "No",
+    "jobTitle": "occupational health nurse",
+    "employerName": "Evolution Mining Gold Operations Ltd.",
+    "website": "http://www.evolutionmining.com.au",
+    "vacancy": "1 vacancy",
+    "salary": "$75,000 to $95,000YEAR annually (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "",
+    "joblocation": "Red Lake, ON",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>College/CEGEP</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 year to less than 2 years</span> </p> <div property=\"skills\"> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Dental plan</span> </li> <li> <span>Disability benefits</span> </li> <li> <span>Health care plan</span> </li> <li> <span>Vision care benefits</span> </li> </ul> <h4>Long term benefits</h4> <ul class=\"csvlist\"> <li> <span>Life insurance</span> </li> <li> <span>Pension plan</span> </li> </ul> <h4>Other benefits</h4> <ul class=\"csvlist\"> <li> <span>Free parking available</span> </li> <li> <span>On-site recreation and activities</span> </li> <li> <span>Paid time off (volunteering or personal days)</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://careers.evolutionmining.com.au/job/Red-Lake-Occupational-Health-Nurse-ON/933830310/\" target=\"_blank\">https://careers.evolutionmining.com.au/job/Red-Lake-Occupational-Health-Nurse-ON/933830310/</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you willing to relocate for this position?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "occupational-health-nurse-38260388",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "75,000-95,000",
+          "unitText": "YEAR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Evolution Mining Gold Operations Ltd.",
+        "sameAs": "http://www.evolutionmining.com.au",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Red Lake",
+          "addressRegion": "Ontario",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://www.evolutionmining.com.au"
+      },
+      "@type": "JobPosting",
+      "title": "occupational health nurse",
+      "description": "Look at this job opportunity for a occupational health nurse at Evolution Mining Gold Operations Ltd. at Red Lake, ON",
+      "datePosted": "2023-05-02",
+      "validThrough": "2023-05-16",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e2ffa1bdb36d68b5cb"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38213583"
+    },
+    "_id": "645388e3ffa1bdb36d68b5cd",
+    "id": 38213583,
+    "LMIA": "No",
+    "jobTitle": "RN (registered nurse)",
+    "employerName": "Loch Lomond Villa, Inc.",
+    "website": "http://www.lochlomondvilla.com",
+    "vacancy": "6 vacancies",
+    "salary": "$52.39HOUR hourly",
+    "jobType": "Permanent employmentPart time",
+    "shift": "Day, Evening, Night, Weekend, Shift, Early Morning",
+    "joblocation": "Saint John, NB",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Nursing home/home for the aged</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Assess patients to identify appropriate nursing interventions</span> </li> <li> <span>Collaborate to plan, implement, co-ordinate and evaluate patient care</span> </li> <li> <span>Dispense and administer medications and treatments as prescribed by a physician</span> </li> <li> <span>Monitor, assess, address, document and report symptoms and changes in patients' conditions</span> </li> <li> <span>Provide nursing care</span> </li> <li> <span>Supervise licensed practical nurses and other nursing staff</span> </li> </ul> <h4>Supervision</h4> <ul class=\"csvlist\"> <li> <span>11-15 people</span> </li> <li> <span>Staff in various areas of responsibility</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>Basic Cardiac Life Support (BCLS) Certificate</span> </li> <li> <span>CPR Certificate</span> </li> <li> <span>Eligible for licensure as a Registered Nurse by the province/territory of work</span> </li> <li> <span>First Aid Certificate</span> </li> <li> <span>Licensure as a Registered Nurse by provincial or territorial authorities</span> </li> </ul> </div> <div property=\"experienceRequirements\"> <h3>Experience and specialization</h3> <h4>Area of specialization</h4> <ul class=\"csvlist\"> <li> <span>Geriatrics</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Security and safety</h4> <ul class=\"csvlist\"> <li> <span>Adult Abuse Registry check</span> </li> <li> <span>Criminal record check</span> </li> <li> <span>Immunization records</span> </li> <li> <span>Medical exam</span> </li> <li> <span>Vulnerable sector check</span> </li> </ul> <h4>Work conditions and physical capabilities</h4> <ul class=\"csvlist\"> <li> <span>Attention to detail</span> </li> <li> <span>Bending, crouching, kneeling</span> </li> <li> <span>Fast-paced environment</span> </li> <li> <span>Physically demanding</span> </li> <li> <span>Standing for extended periods</span> </li> <li> <span>Work under pressure</span> </li> </ul> <h4>Personal suitability</h4> <ul class=\"csvlist\"> <li> <span>Accurate</span> </li> <li> <span>Client focus</span> </li> <li> <span>Efficient interpersonal skills</span> </li> <li> <span>Excellent oral communication</span> </li> <li> <span>Excellent written communication</span> </li> <li> <span>Flexibility</span> </li> <li> <span>Initiative</span> </li> <li> <span>Judgement</span> </li> <li> <span>Organized</span> </li> <li> <span>Reliability</span> </li> <li> <span>Team player</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Dental plan</span> </li> <li> <span>Health care plan</span> </li> <li> <span>Vision care benefits</span> </li> </ul> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>As per collective agreement</span> </li> </ul> <h4>Long term benefits</h4> <ul class=\"csvlist\"> <li> <span>Group insurance benefits</span> </li> <li> <span>Other benefits</span> </li> <li> <span>Pension plan</span> </li> </ul> <h4>Other benefits</h4> <ul class=\"csvlist\"> <li> <span>Free parking available</span> </li> <li> <span>Team building opportunities</span> </li> <li> <span>Parking available</span> </li> <li> <span>Wellness program</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:hr@lochlomondvilla.com\">hr@lochlomondvilla.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Cover letter</li><li>Proof of the requested certifications</li></ul> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you available for shift or on-call work?</li> <li>Are you currently legally able to work in Canada?</li> <li>Do you have previous experience in this field of employment?</li> <li>Do you have the above-indicated required certifications?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "rn-(registered-nurse)-38213583",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "52.39",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Loch Lomond Villa, Inc.",
+        "sameAs": "http://www.lochlomondvilla.com",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Saint John",
+          "addressRegion": "New Brunswick ",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://www.lochlomondvilla.com"
+      },
+      "@type": "JobPosting",
+      "title": "RN (registered nurse)",
+      "description": "Look at this job opportunity for a RN (registered nurse) at Loch Lomond Villa, Inc. at Saint John, NB",
+      "datePosted": "2023-04-26",
+      "validThrough": "2023-05-26",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e3ffa1bdb36d68b5ce"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38188144"
+    },
+    "_id": "645388e3ffa1bdb36d68b5d0",
+    "id": 38188144,
+    "LMIA": "No",
+    "jobTitle": "nurse",
+    "employerName": "FIRSTCLASS SUPPORT SERVICES LTD",
+    "website": "https://www.firstclasssupportservices.com/",
+    "vacancy": "2 vacancies",
+    "salary": "$100.00HOUR hourly",
+    "jobType": "Permanent employmentFull time",
+    "shift": "",
+    "joblocation": "Burnaby, BC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>5 years or more</span> </p> <div property=\"skills\"> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:blessing@firstclasssupportservices.com\">blessing@firstclasssupportservices.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you currently legally able to work in Canada?</li> <li>Do you currently reside in proximity to the advertised location?</li> <li>Do you have previous experience in this field of employment?</li> <li>Do you have the above-indicated required certifications?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "nurse-38188144",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "100.00",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "FIRSTCLASS SUPPORT SERVICES LTD",
+        "sameAs": "https://www.firstclasssupportservices.com/",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Burnaby",
+          "addressRegion": "British Columbia",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.firstclasssupportservices.com/"
+      },
+      "@type": "JobPosting",
+      "title": "nurse",
+      "description": "Look at this job opportunity for a nurse at FIRSTCLASS SUPPORT SERVICES LTD at Burnaby, BC",
+      "datePosted": "2023-04-25",
+      "validThrough": "2023-05-25",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e3ffa1bdb36d68b5d1"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38236692"
+    },
+    "_id": "645388e3ffa1bdb36d68b5d3",
+    "id": 38236692,
+    "LMIA": "No",
+    "jobTitle": "registered nurse (R.N.)",
+    "employerName": "Ontario Public Service",
+    "website": "https://www.gojobs.gov.on.ca",
+    "vacancy": "5 vacancies",
+    "salary": "$1,408.52 to $1,756.03WEEKLY weekly (to be negotiated)",
+    "jobType": "Term or contractFull time",
+    "shift": "Shift, On Call, To be determined",
+    "joblocation": "181 Elm Street WestSudbury, ONP3C 1T8",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Correctional facility</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>Licensure as a Registered Nurse by provincial or territorial authorities</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>As per collective agreement</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://www.gojobs.gov.on.ca/Preview.aspx?Language=English&amp;JobID=198216\" target=\"_blank\">https://www.gojobs.gov.on.ca/Preview.aspx?Language=English&amp;JobID=198216</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>198216<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Job reference number</li><li>Cover letter</li></ul>",
+    "slug": "registered-nurse-(r.n.)-38236692",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "1,408.52-1,756.03",
+          "unitText": "WEEKLY"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Ontario Public Service",
+        "sameAs": "https://www.gojobs.gov.on.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Sudbury",
+          "addressRegion": "Ontario",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.gojobs.gov.on.ca"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse (R.N.)",
+      "description": "Look at this job opportunity for a registered nurse (R.N.) at Ontario Public Service at 181 Elm Street WestSudbury, ONP3C 1T8",
+      "datePosted": "2023-04-28",
+      "validThrough": "2023-05-12",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e3ffa1bdb36d68b5d4"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38182563"
+    },
+    "_id": "645388e3ffa1bdb36d68b5d6",
+    "id": 38182563,
+    "LMIA": "No",
+    "jobTitle": "clinical nurse",
+    "employerName": "CISSS des Laurentides",
+    "website": "http://www.santelaurentides.gouv.qc.ca",
+    "vacancy": "100 vacancies",
+    "salary": "$27.08HOUR hourly",
+    "jobType": "Term or contractFull time",
+    "shift": "Day, Evening, Night, Weekend, Shift, Overtime, On Call, Flexible Hours, Early Morning, Morning",
+    "joblocation": "Mont-Laurier, QC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">French</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 year to less than 2 years</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Hospital or home for the aged</span> </li> <li> <span>Hospital/medical facility or clinic</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Assess patients to identify appropriate nursing interventions</span> </li> <li> <span>Assist in surgery and other medical procedures</span> </li> <li> <span>Collaborate to plan, implement, co-ordinate and evaluate patient care</span> </li> <li> <span>Dispense and administer medications and treatments as prescribed by a physician</span> </li> <li> <span>Monitor, assess, address, document and report symptoms and changes in patients' conditions</span> </li> <li> <span>Operate or monitor medical apparatus or equipment</span> </li> <li> <span>Provide consultative services regarding issues relevant to nursing profession and nursing practice</span> </li> <li> <span>Provide nursing care</span> </li> <li> <span>Supervise licensed practical nurses and other nursing staff</span> </li> </ul> <h4>Supervision</h4> <ul class=\"csvlist\"> <li> <span>Staff in various areas of responsibility</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>Eligible for licensure as a Registered Nurse by the province/territory of work</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Security and safety</h4> <ul class=\"csvlist\"> <li> <span>Criminal record check</span> </li> <li> <span>Medical exam</span> </li> </ul> <h4>Work conditions and physical capabilities</h4> <ul class=\"csvlist\"> <li> <span>Large workload</span> </li> <li> <span>Standing for extended periods</span> </li> <li> <span>Tight deadlines</span> </li> <li> <span>Work under pressure</span> </li> </ul> <h4>Personal suitability</h4> <ul class=\"csvlist\"> <li> <span>Client focus</span> </li> <li> <span>Efficient interpersonal skills</span> </li> <li> <span>Flexibility</span> </li> <li> <span>Initiative</span> </li> <li> <span>Judgement</span> </li> <li> <span>Organized</span> </li> <li> <span>Reliability</span> </li> <li> <span>Team player</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Dental plan</span> </li> <li> <span>Disability benefits</span> </li> <li> <span>Health care plan</span> </li> <li> <span>Paramedical services coverage</span> </li> <li> <span>Vision care benefits</span> </li> </ul> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>As per collective agreement</span> </li> <li> <span>Bonus</span> </li> </ul> <h4>Long term benefits</h4> <ul class=\"csvlist\"> <li> <span>Group insurance benefits</span> </li> <li> <span>Life insurance</span> </li> <li> <span>Long-term care insurance</span> </li> <li> <span>Maternity and parental benefits</span> </li> <li> <span>Other benefits</span> </li> <li> <span>Pension plan</span> </li> </ul> <h4>Other benefits</h4> <ul class=\"csvlist\"> <li> <span>Paid time off (volunteering or personal days)</span> </li> <li> <span>Team building opportunities</span> </li> <li> <span>Wellness program</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://www.santelaurentides.gouv.qc.ca/carriere/\" target=\"_blank\">https://www.santelaurentides.gouv.qc.ca/carriere/</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Cover letter</li></ul> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you currently legally able to work in Canada?</li> <li>Do you have the above-indicated required certifications?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "clinical-nurse-38182563",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "27.08",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "CISSS des Laurentides",
+        "sameAs": "http://www.santelaurentides.gouv.qc.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Mont-Laurier",
+          "addressRegion": "Quebec",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://www.santelaurentides.gouv.qc.ca"
+      },
+      "@type": "JobPosting",
+      "title": "clinical nurse",
+      "description": "Look at this job opportunity for a clinical nurse at CISSS des Laurentides at Mont-Laurier, QC",
+      "datePosted": "2023-04-25",
+      "validThrough": "2023-05-25",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e3ffa1bdb36d68b5d7"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38235977"
+    },
+    "_id": "645388e3ffa1bdb36d68b5d9",
+    "id": 38235977,
+    "LMIA": "No",
+    "jobTitle": "registered psychiatric nurse (R.P.N.)",
+    "employerName": "Broadview Nursing Centre",
+    "vacancy": "8 vacancies",
+    "salary": "$24.82HOUR hourly",
+    "jobType": "Permanent employmentFull time",
+    "shift": "Day, Evening",
+    "joblocation": "Smiths Falls, ON",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>College/CEGEP</span> </li> <li>or equivalent experience</li> <li>Nursing, Other</li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 to less than 7 months</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Nursing home/home for the aged</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Assess patients to identify appropriate nursing interventions</span> </li> <li> <span>Conduct disease screening</span> </li> <li> <span>Dispense and administer medications and treatments as prescribed by a physician</span> </li> <li> <span>Monitor, assess, address, document and report symptoms and changes in patients' conditions</span> </li> <li> <span>Provide nursing care</span> </li> <li> <span>Supervise licensed practical nurses and other nursing staff</span> </li> </ul> <h4>Supervision</h4> <ul class=\"csvlist\"> <li> <span>5-10 people</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>CPR Certificate</span> </li> <li> <span>Licensure as a Registered Nurse by provincial or territorial authorities</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Security and safety</h4> <ul class=\"csvlist\"> <li> <span>Criminal record check</span> </li> </ul> <h4>Work conditions and physical capabilities</h4> <ul class=\"csvlist\"> <li> <span>Attention to detail</span> </li> <li> <span>Fast-paced environment</span> </li> </ul> <h4>Personal suitability</h4> <ul class=\"csvlist\"> <li> <span>Efficient interpersonal skills</span> </li> <li> <span>Excellent written communication</span> </li> <li> <span>Organized</span> </li> <li> <span>Team player</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Dental plan</span> </li> <li> <span>Disability benefits</span> </li> <li> <span>Health care plan</span> </li> </ul> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>As per collective agreement</span> </li> <li> <span>Bonus</span> </li> </ul> <h4>Other benefits</h4> <ul class=\"csvlist\"> <li> <span>Free parking available</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:alaina.kerr@broadviewnc.ca\">alaina.kerr@broadviewnc.ca</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4 id=\"htafax\"> By fax <span id=\"tp_unverifiedFaxNumber\" class=\"timepickler\"></span> </h4> <p>613-283-7073 <span id=\"tp_applyByFaxNumber\" class=\"timepickler\"></span> </p> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you currently legally able to work in Canada?</li> <li>Do you have the above-indicated required certifications?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "registered-psychiatric-nurse-(r.p.n.)-38235977",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "24.82",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Broadview Nursing Centre",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Smiths Falls",
+          "addressRegion": "Ontario",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://canadajobbank.org/worker-landscape/#webpage"
+      },
+      "@type": "JobPosting",
+      "title": "registered psychiatric nurse (R.P.N.)",
+      "description": "Look at this job opportunity for a registered psychiatric nurse (R.P.N.) at Broadview Nursing Centre at Smiths Falls, ON",
+      "datePosted": "2023-04-28",
+      "validThrough": "2023-05-12",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e3ffa1bdb36d68b5da"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38270336"
+    },
+    "_id": "645388e4ffa1bdb36d68b5dc",
+    "id": 38270336,
+    "LMIA": "No",
+    "jobTitle": "registered nurse (R.N.)",
+    "employerName": "Western Regional Health Authority",
+    "website": "https://employment.westernhealth.nl.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$65,598 to $81,217.5YEAR annually (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "",
+    "joblocation": "Corner Brook, NL",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://employment.westernhealth.nl.ca\" target=\"_blank\">https://employment.westernhealth.nl.ca</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>2023000564<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p>",
+    "slug": "registered-nurse-(r.n.)-38270336",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "65,598-81,217.5",
+          "unitText": "YEAR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Western Regional Health Authority",
+        "sameAs": "https://employment.westernhealth.nl.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Corner Brook",
+          "addressRegion": "Newfoundland and Labrador",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://employment.westernhealth.nl.ca"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse (R.N.)",
+      "description": "Look at this job opportunity for a registered nurse (R.N.) at Western Regional Health Authority at Corner Brook, NL",
+      "datePosted": "2023-05-03",
+      "validThrough": "2023-05-17",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645388e4ffa1bdb36d68b5dd"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38275418"
+    },
+    "_id": "64538f8c26bf246f4395a5c3",
+    "id": 38275418,
+    "LMIA": "No",
+    "jobTitle": "manager, retail sales",
+    "employerName": "Evne Services Ltd.",
+    "vacancy": "1 vacancy",
+    "salary": "$31.50HOUR hourly",
+    "jobType": "Permanent employmentFull time",
+    "shift": "Day",
+    "joblocation": "Burnaby, BC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>College/CEGEP</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>2 years to less than 3 years</span> </p> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Manage staff and assign duties</span> </li> <li> <span>Study market research and trends to determine consumer demand, potential sales volumes and effect of competitors' operations on sales</span> </li> <li> <span>Develop and implement marketing strategies</span> </li> <li> <span>Resolve problems that arise, such as customer complaints and supply shortages</span> </li> <li> <span>Plan, organize, direct, control and evaluate daily operations</span> </li> </ul> <h4>Supervision</h4> <ul class=\"csvlist\"> <li> <span>11-15 people</span> </li> </ul> </div> <div property=\"experienceRequirements\"> <h3>Experience and specialization</h3> <h4>Computer and technology knowledge</h4> <ul class=\"csvlist\"> <li> <span>Word processing software</span> </li> <li> <span>Electronic mail</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Work conditions and physical capabilities</h4> <ul class=\"csvlist\"> <li> <span>Fast-paced environment</span> </li> <li> <span>Attention to detail</span> </li> </ul> <h4>Personal suitability</h4> <ul class=\"csvlist\"> <li> <span>Time management</span> </li> <li> <span>Client focus</span> </li> <li> <span>Excellent oral communication</span> </li> <li> <span>Organized</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:evneservicesbc@gmail.com\">evneservicesbc@gmail.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Cover letter</li></ul>",
+    "slug": "manager-retail-sales-38275418",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "31.50",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Evne Services Ltd.",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Burnaby",
+          "addressRegion": "British Columbia",
+          "postalCode": "",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://canadajobbank.org/worker-landscape/#webpage"
+      },
+      "@type": "JobPosting",
+      "title": "manager, retail sales",
+      "description": "Look at this job opportunity for a manager, retail sales at Evne Services Ltd. at Burnaby, BC",
+      "datePosted": "2023-05-04",
+      "validThrough": "2023-06-03",
+      "employmentType": [],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "64538f8c26bf246f4395a5c4"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38268740"
+    },
+    "_id": "6454d01f356f3d8cacc56cf0",
+    "id": 38268740,
+    "LMIA": "No",
+    "jobTitle": "registered nurse (R.N.)",
+    "employerName": "VON Canada",
+    "website": "http://www.von.ca/en/careers",
+    "vacancy": "11 vacancies",
+    "salary": "$35.03 to $42.93HOUR hourly (to be negotiated)",
+    "jobType": "Permanent employmentPart time leading to full time",
+    "shift": "Day, Evening, Weekend, On Call, Flexible Hours, Morning",
+    "joblocation": "Scarborough, ON",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>7 months to less than 1 year</span> </p> <h4>On the road job</h4> <p><span class=\"description\"><span class=\"fa-icon-desc fa-icon fas fa-car-side\" aria-hidden=\"true\"></span> Work locations may vary. Frequent or constant travel is required from the employee.</span></p> <div property=\"experienceRequirements\"> <h3>Experience and specialization</h3> <h4>Area of specialization</h4> <ul class=\"csvlist\"> <li> <span>Palliative care</span> </li> <li> <span>Pediatrics</span> </li> </ul> </div> <div property=\"skills\"> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Dental plan</span> </li> <li> <span>Disability benefits</span> </li> <li> <span>Health care plan</span> </li> </ul> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>As per collective agreement</span> </li> <li> <span>Mileage paid</span> </li> </ul> <h4>Long term benefits</h4> <ul class=\"csvlist\"> <li> <span>Group insurance benefits</span> </li> <li> <span>Life insurance</span> </li> <li> <span>Other benefits</span> </li> <li> <span>Pension plan</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaonline\"> Online: <span id=\"tp_unverifiedOnlineUrl\" class=\"timepickler\"></span> </h4> <p> <a href=\"https://jobs.jobvite.com/von/job/oJs8mfwp\" target=\"_blank\">https://jobs.jobvite.com/von/job/oJs8mfwp</a> <span class=\"fa fa-external-link\" aria-hidden=\"true\"></span> <span id=\"tp_applyOnlineUrl\" class=\"timepickler\"></span> </p> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you currently legally able to work in Canada?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "registered-nurse-(r.n.)-38268740",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "35.03-42.93",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "VON Canada",
+        "sameAs": "http://www.von.ca/en/careers",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1860 Lawrence Ave E",
+          "addressLocality": "Scarborough",
+          "addressRegion": "Ontario",
+          "postalCode": "M1R,5B1",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://www.von.ca/en/careers"
+      },
+      "@type": "JobPosting",
+      "title": "registered nurse (R.N.)",
+      "description": "Look at this job opportunity for a registered nurse (R.N.) at VON Canada at Scarborough, ON",
+      "datePosted": "2023-05-03",
+      "validThrough": "2023-06-02",
+      "employmentType": ["Part time"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "6454d01f356f3d8cacc56cf1"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38273154"
+    },
+    "_id": "6454d20d7a4e2575af3511fa",
+    "id": 38273154,
+    "LMIA": "No",
+    "jobTitle": "office administrative assistant",
+    "employerName": "Strasburg Crossing Family Practice",
+    "vacancy": "1 vacancy",
+    "salary": "$27.00HOUR hourly",
+    "jobType": "Permanent employmentFull time",
+    "shift": "Day, Evening, Weekend, Morning",
+    "joblocation": "Kitchener, ON",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Secondary (high) school graduation certificate</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 year to less than 2 years</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Health care institution, facility or clinic</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Record and prepare minutes of meetings, seminars and conferences</span> </li> <li> <span>Schedule and confirm appointments</span> </li> <li> <span>Answer telephone and relay telephone calls and messages</span> </li> <li> <span>Answer electronic enquiries</span> </li> <li> <span>Order office supplies and maintain inventory</span> </li> <li> <span>Arrange travel, related itineraries and make reservations</span> </li> <li> <span>Greet people and direct them to contacts or service areas</span> </li> <li> <span>Open and distribute regular and electronic incoming mail and other material and co-ordinate the flow of information</span> </li> </ul> </div> <div property=\"experienceRequirements\"> <h3>Experience and specialization</h3> <h4>Computer and technology knowledge</h4> <ul class=\"csvlist\"> <li> <span>MS Excel</span> </li> <li> <span>MS Word</span> </li> <li> <span>MS Outlook</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Security and safety</h4> <ul class=\"csvlist\"> <li> <span>Criminal record check</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:humanresources@strasburgcrossing.com\">humanresources@strasburgcrossing.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4 id=\"htainperson\"> In person <span id=\"tp_unverifiedAddressInPerson\" class=\"timepickler\"></span> </h4> <p><span class=\"block_street\">795 Ottawa Street South suite B3</span><span class=\"block_city\">Kitchener, ON</span><span class=\"block_postalcode\"> N2E 0A5</span> <span class=\"textCapitalize\">Between 11:00 AM and 03:00 PM </span> <span id=\"tp_applyInPerson\" class=\"timepickler\"></span> </p>",
+    "slug": "office-administrative-assistant-38273154",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "27.00",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Strasburg Crossing Family Practice",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "795 Ottawa St S Unit B3",
+          "addressLocality": "Kitchener",
+          "addressRegion": "Ontario",
+          "postalCode": "N2E,0A5",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://canadajobbank.org/worker-landscape/#webpage"
+      },
+      "@type": "JobPosting",
+      "title": "office administrative assistant",
+      "description": "Look at this job opportunity for a office administrative assistant at Strasburg Crossing Family Practice at Kitchener, ON",
+      "datePosted": "2023-05-04",
+      "validThrough": "2023-06-03",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "6454d20d7a4e2575af3511fb"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38282157"
+    },
+    "_id": "6454d34fa128cc91eb418c2c",
+    "id": 38282157,
+    "LMIA": "No",
+    "jobTitle": "digital marketing specialist",
+    "employerName": "MOSEIKO CANADA INC.",
+    "website": "http://www.moseiko.cn",
+    "vacancy": "2 vacancies",
+    "salary": "$3,200 to $5,000MONTH monthly (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "09:00 to 18:00",
+    "joblocation": "Richmond, BC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 to less than 7 months</span> </p> <h4>Asset languages</h4> <ul class=\"csvlist\"> <li><span>Mandarin</span></li> </ul> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Advertising, marketing and public relations agency</span> </li> <li> <span>Consulting firm</span> </li> <li> <span>Internet/Web services company</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Train and supervise staff</span> </li> <li> <span>Advise clients on advertising or sales promotion strategies</span> </li> <li> <span>Answer written and oral inquiries</span> </li> <li> <span>Assist in the preparation of brochures, reports, newsletters and other material</span> </li> <li> <span>Develop, implement and evaluate communication strategies and programs</span> </li> <li> <span>Initiate and maintain contact with the media</span> </li> <li> <span>Prepare or oversee preparation of reports, briefs, bibliographies, speeches, presentations, Website content and press releases</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>Google�AdWords�Certification</span> </li> </ul> </div> <div property=\"experienceRequirements\"> <h3>Experience and specialization</h3> <h4>Computer and technology knowledge</h4> <ul class=\"csvlist\"> <li> <span>MS Excel</span> </li> <li> <span>MS PowerPoint</span> </li> <li> <span>MS Word</span> </li> </ul> <h4>Area of specialization</h4> <ul class=\"csvlist\"> <li> <span>Project management</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Work conditions and physical capabilities</h4> <ul class=\"csvlist\"> <li> <span>Attention to detail</span> </li> <li> <span>Fast-paced environment</span> </li> <li> <span>Tight deadlines</span> </li> <li> <span>Work under pressure</span> </li> </ul> <h4>Own tools/equipment</h4> <ul class=\"csvlist\"> <li> <span>Cellular phone</span> </li> </ul> <h4>Personal suitability</h4> <ul class=\"csvlist\"> <li> <span>Client focus</span> </li> <li> <span>Efficient interpersonal skills</span> </li> <li> <span>Excellent oral communication</span> </li> <li> <span>Excellent written communication</span> </li> <li> <span>Flexibility</span> </li> <li> <span>Initiative</span> </li> <li> <span>Judgement</span> </li> <li> <span>Organized</span> </li> <li> <span>Team player</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Dental plan</span> </li> <li> <span>Health care plan</span> </li> <li> <span>Paramedical services coverage</span> </li> <li> <span>Vision care benefits</span> </li> </ul> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>Bonus</span> </li> <li> <span>Commission</span> </li> </ul> <h4>Long term benefits</h4> <ul class=\"csvlist\"> <li> <span>Group insurance benefits</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <span property=\"directApply\" class=\"wb-inv\">1</span> <section id=\"alert-share-container\" class=\"alert alert-info wb-inv\" aria-hidden=\"true\"> <ul><li>You have successfully applied for this job through Job Bank!</li></ul> </section> <section id=\"alert-withdraw-container\" class=\"alert alert-info wb-inv\" aria-hidden=\"true\"> <ul><li>You have successfully withdrawn your application for this job.</li></ul> </section> <span property=\"directApply\" class=\"wb-inv\">1</span> <h4>By applying directly on Job Bank (Direct Apply) <a href=\"#lightbox-resumesharing\" role=\"button\" class=\"dialog-help\" aria-controls=\"shareResumeInfo\" id=\"shareResumeInfo\"><span class=\"fa fa-question\"></span><span class=\"wb-inv\">Help - Applying directly on Job Bank (Direct Apply)</span></a> </h4> <section id=\"lightbox-resumesharing\" class=\" mfp-hide modal-dialog modal-content overlay-def \"> <header class=\"modal-header\"> <h2 class=\"modal-title\">Applying directly on Job Bank (Direct Apply) - Help</h2> </header> <div class=\"modal-body\"><p>You need <a href=\"https://www.jobbank.gc.ca/reg/instructions\">a Plus account</a> to apply for this job directly on Job Bank.</p><p>When you click on “Apply on Job Bank”, you will be asked to login to continue. If you already have a resume saved in your Plus account, you will be able to select and share it to apply. Otherwise, you will have to create or upload a new resume first.</p><p>If your application is retained, the employer will contact you using the information provided in your resume.</p> </div> </section><form id=\"applyresumesharing\" name=\"applyresumesharing\" method=\"post\" class=\"applyresumesharing\" enctype=\"application/x-www-form-urlencoded\" action=\"#\"> <p><input id=\"applyresumesharing:redirectbutton\" name=\"applyresumesharing:redirectbutton\" type=\"submit\" value=\"Apply on Job Bank\" class=\"btn btn-primary btn-submit redirectbutton\" data-redirect=\"/jobsearch/jobposting/38282157\"></p><input type=\"hidden\" name=\"applyresumesharing_SUBMIT\" value=\"1\"></form> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:yijing.yao@moseiko.cn\">yijing.yao@moseiko.cn</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Proof of the requested certifications</li></ul> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you currently a student?</li> <li>Are you currently legally able to work in Canada?</li> <li>Do you have previous experience in this field of employment?</li> <li>What is the highest level of study you have completed?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "digital-marketing-specialist-38282157",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "3,200-5,000",
+          "unitText": "MONTH"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "MOSEIKO CANADA INC.",
+        "sameAs": "http://www.moseiko.cn",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "24076 112 Ave",
+          "addressLocality": "Richmond",
+          "addressRegion": "British Columbia",
+          "postalCode": "BC,V2W",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://www.moseiko.cn"
+      },
+      "@type": "JobPosting",
+      "title": "digital marketing specialist",
+      "description": "Look at this job opportunity for a digital marketing specialist at MOSEIKO CANADA INC. at Richmond, BC",
+      "datePosted": "2023-05-05",
+      "validThrough": "2023-05-19",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "6454d34fa128cc91eb418c2d"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38280847"
+    },
+    "_id": "6454d37ea128cc91eb418c30",
+    "id": 38280847,
+    "LMIA": "No",
+    "jobTitle": "food service supervisor",
+    "employerName": "Gene Coffee Bar",
+    "website": "http://GeneCoffeeBar.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$18.50 to $20.00HOUR hourly (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "",
+    "joblocation": "2404 Main StreetVancouver, BCV5T 3E2",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Secondary (high) school graduation certificate</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 year to less than 2 years</span> </p> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Supervise and co-ordinate activities of staff who prepare and portion food</span> </li> <li> <span>Train staff in job duties, sanitation and safety procedures</span> </li> <li> <span>Estimate and order ingredients and supplies</span> </li> <li> <span>Hire food service staff</span> </li> <li> <span>Ensure food service and quality control</span> </li> <li> <span>Prepare budget and cost estimates</span> </li> <li> <span>Maintain records of stock, repairs, sales and wastage</span> </li> <li> <span>Establish work schedules</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:genecoffeeltd@gmail.com\">genecoffeeltd@gmail.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p>",
+    "slug": "food-service-supervisor-38280847",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "18.50-20.00",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Gene Coffee Bar",
+        "sameAs": "http://GeneCoffeeBar.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2404 Main St",
+          "addressLocality": "Vancouver",
+          "addressRegion": "British Columbia",
+          "postalCode": "V5T,3E2",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://GeneCoffeeBar.ca"
+      },
+      "@type": "JobPosting",
+      "title": "food service supervisor",
+      "description": "Look at this job opportunity for a food service supervisor at Gene Coffee Bar at 2404 Main StreetVancouver, BCV5T 3E2",
+      "datePosted": "2023-05-05",
+      "validThrough": "2023-06-04",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "6454d37ea128cc91eb418c31"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38280677"
+    },
+    "_id": "6454d3f2e0f1ef74b7ad7edd",
+    "id": 38280677,
+    "LMIA": "No",
+    "jobTitle": "hotel front desk clerk",
+    "employerName": "Thompson Hotel Ltd.",
+    "website": "http://www.thompsonhotel.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$16.00HOUR hourly",
+    "jobType": "Permanent employmentFull time",
+    "shift": "Day, Evening, Night, Weekend, Shift, Overtime, Early Morning, Morning",
+    "joblocation": "Kamloops, BC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Secondary (high) school graduation certificate</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Register arriving guests and assign rooms</span> </li> <li> <span>Process group arrivals and departures</span> </li> <li> <span>Take, cancel and change room reservations</span> </li> <li> <span>Provide information on hotel facilities and services</span> </li> <li> <span>Provide general information about points of interest in the area</span> </li> <li> <span>Process guests' departures, calculate charges and receive payments</span> </li> <li> <span>Balance cash and complete balance sheets, cash reports and related forms</span> </li> <li> <span>Clerical duties (i.e. faxing, filing, photocopying)</span> </li> <li> <span>Assist clients/guests with special needs</span> </li> <li> <span>Provide customer service</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Work conditions and physical capabilities</h4> <ul class=\"csvlist\"> <li> <span>Attention to detail</span> </li> <li> <span>Fast-paced environment</span> </li> <li> <span>Overtime required</span> </li> <li> <span>Standing for extended periods</span> </li> <li> <span>Work under pressure</span> </li> </ul> <h4>Personal suitability</h4> <ul class=\"csvlist\"> <li> <span>Client focus</span> </li> <li> <span>Dependability</span> </li> <li> <span>Efficient interpersonal skills</span> </li> <li> <span>Excellent oral communication</span> </li> <li> <span>Excellent written communication</span> </li> <li> <span>Flexibility</span> </li> <li> <span>Judgement</span> </li> <li> <span>Organized</span> </li> <li> <span>Reliability</span> </li> <li> <span>Team player</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:hotelthompsonjobs@gmail.com\">hotelthompsonjobs@gmail.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p>",
+    "slug": "hotel-front-desk-clerk-38280677",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "16.00",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Thompson Hotel Ltd.",
+        "sameAs": "http://www.thompsonhotel.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "650 Victoria St",
+          "addressLocality": "Kamloops",
+          "addressRegion": "British Columbia",
+          "postalCode": "V2C 2B4",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "http://www.thompsonhotel.ca"
+      },
+      "@type": "JobPosting",
+      "title": "hotel front desk clerk",
+      "description": "Look at this job opportunity for a hotel front desk clerk at Thompson Hotel Ltd. at Kamloops, BC",
+      "datePosted": "2023-05-05",
+      "validThrough": "2023-06-04",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "6454d3f2e0f1ef74b7ad7ede"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "37730123"
+    },
+    "_id": "6455172be0f1ef74b7ad7ee8",
+    "id": 37730123,
+    "LMIA": "No",
+    "jobTitle": "foamed insulation applicator",
+    "employerName": "Spaar",
+    "website": "https://www.spaar.ca",
+    "vacancy": "1 vacancy",
+    "salary": "$33.50HOUR hourly",
+    "jobType": "Permanent employmentFull time",
+    "shift": "Day, Weekend, Morning",
+    "joblocation": "12222 - 44 Street SECalgary, ABT2Z 4A2",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Secondary (high) school graduation certificate</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>1 year to less than 2 years</span> </p> <div property=\"\"> <h4>Work site environment</h4> <ul class=\"csvlist\"> <li> <span>Odours</span> </li> <li> <span>Dusty</span> </li> <li> <span>Outdoors</span> </li> </ul> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Construction</span> </li> <li> <span>Commercial</span> </li> <li> <span>Installation</span> </li> <li> <span>Residential</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Select type of insulation required</span> </li> <li> <span>Measure and cut insulating materials to required shape and dimensions using hand and power tools</span> </li> <li> <span>Apply and secure insulation using spraying, blowing, pasting, strapping, taping and other application and installation methods</span> </li> <li> <span>Fit insulation around obstructions and between joists and studs</span> </li> <li> <span>Install vapour barriers and fire-retardant materials</span> </li> <li> <span>Fabricate and apply removable insulation pads and covers</span> </li> <li> <span>Read and interpret blueprints, maps, drawings and specifications</span> </li> <li> <span>Assemble, erect and dismantle scaffolding, rigging and hoisting equipment</span> </li> </ul> </div> <div property=\"skills\"> <h3>Credentials</h3> <h4>Certificates, licences, memberships, and courses&nbsp;</h4> <ul class=\"csvlist\"> <li> <span>Occupational Health and Safety Certificate</span> </li> <li> <span>Driver's License</span> </li> <li> <span>Fall Arrest Protection Training Course</span> </li> </ul> </div> <div property=\"experienceRequirements\"> <h3>Experience and specialization</h3> <h4>Types of systems</h4> <ul class=\"csvlist\"> <li> <span>Ventilation and exhaust</span> </li> <li> <span>Hot water system and equipment</span> </li> </ul> <h4>Area of specialization</h4> <ul class=\"csvlist\"> <li> <span>Custom fabrication and layout</span> </li> <li> <span>Spraying and blowing insulation</span> </li> <li> <span>Acoustical insulation</span> </li> <li> <span>Cladding</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Security and safety</h4> <ul class=\"csvlist\"> <li> <span>Driver's validity licence check</span> </li> </ul> <h4>Work conditions and physical capabilities</h4> <ul class=\"csvlist\"> <li> <span>Physically demanding</span> </li> <li> <span>Handling heavy loads</span> </li> <li> <span>Standing for extended periods</span> </li> <li> <span>Bending, crouching, kneeling</span> </li> </ul> <h4>Own tools/equipment</h4> <ul class=\"csvlist\"> <li> <span>Steel-toed safety boots</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Long term benefits</h4> <ul class=\"csvlist\"> <li> <span>Other benefits</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:info@spaar.ca\">info@spaar.ca</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4 id=\"htamail\"> By mail <span id=\"tp_unverifiedByAddressMailing\" class=\"timepickler\"></span> </h4> <p><span class=\"block_street\">12222 - 44 Street SE</span><span class=\"block_city\">Calgary, AB</span><span class=\"block_postalcode\"> T2Z 4A2</span> <span id=\"tp_applyByMail\" class=\"timepickler\"></span> </p>",
+    "slug": "foamed-insulation-applicator-37730123",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "33.50",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Spaar",
+        "sameAs": "https://www.spaar.ca",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "648",
+          "addressLocality": "Calgary",
+          "addressRegion": "Alberta",
+          "postalCode": "Block East",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.spaar.ca"
+      },
+      "@type": "JobPosting",
+      "title": "foamed insulation applicator",
+      "description": "Look at this job opportunity for a foamed insulation applicator at Spaar at 12222 - 44 Street SECalgary, ABT2Z 4A2",
+      "datePosted": "2023-02-27",
+      "validThrough": "2023-05-08",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "6455172be0f1ef74b7ad7ee9"
+    },
+    "__v": 0
+  },
+  {
+    "meta": {
+      "id": "38102486"
+    },
+    "_id": "6455d20fc23ce2f4db156ed8",
+    "id": 38102486,
+    "LMIA": "Yes",
+    "jobTitle": "labourer, fruit farming",
+    "employerName": "Faraman Farm",
+    "vacancy": "5 vacancies",
+    "salary": "$16.05HOUR hourly",
+    "jobType": "Seasonal employmentFull time",
+    "shift": "Day, Evening, Weekend, Early Morning, Morning",
+    "joblocation": "Canyon, BC",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>No degree, certificate or diploma</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p> <div property=\"\"> <h4>Work site environment</h4> <ul class=\"csvlist\"> <li> <span>Fruit and vegetable combination farming</span> </li> <li> <span>Outdoors</span> </li> <li> <span>At heights</span> </li> <li> <span>Odours</span> </li> <li> <span>Hot</span> </li> </ul> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Room and board provided</span> </li> <li> <span>Rural area</span> </li> <li> <span>Various locations</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Hand harvesting vegetables</span> </li> <li> <span>Hoeing crops</span> </li> <li> <span>Plant, cultivate and irrigate crops</span> </li> <li> <span>Weeding</span> </li> <li> <span>Harvest crops</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Work conditions and physical capabilities</h4> <ul class=\"csvlist\"> <li> <span>Fast-paced environment</span> </li> <li> <span>Repetitive tasks</span> </li> <li> <span>Handling heavy loads</span> </li> <li> <span>Physically demanding</span> </li> <li> <span>Attention to detail</span> </li> <li> <span>Combination of sitting, standing, walking</span> </li> <li> <span>Standing for extended periods</span> </li> <li> <span>Walking</span> </li> <li> <span>Bending, crouching, kneeling</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Dental plan</span> </li> <li> <span>Health care plan</span> </li> </ul> <h4>Long term benefits</h4> <ul class=\"csvlist\"> <li> <span>Other benefits</span> </li> </ul> <h4>Other benefits</h4> <ul class=\"csvlist\"> <li> <span>On-site amenities</span> </li> <li> <span>On-site housing options</span> </li> </ul> </div></div> ",
+    "slug": "labourer-fruit-farming-38102486",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "16.05",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Faraman Farm",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3111 BC-3",
+          "addressLocality": "Canyon",
+          "addressRegion": "British Columbia",
+          "postalCode": "V0B 1G1",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://canadajobbank.org/worker-landscape/#webpage"
+      },
+      "@type": "JobPosting",
+      "title": "labourer, fruit farming",
+      "description": "Look at this job opportunity for a labourer, fruit farming at Faraman Farm at Canyon, BC",
+      "datePosted": "2023-04-19",
+      "validThrough": "2023-05-03",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "6455d20fc23ce2f4db156ed9"
+    },
+    "__v": 0
+  },
+  {
+    "howToApplySchema": {
+      "emailToApply": "ian.drapeau@manoirsjb.ca",
+      "applyByMail": "5 ave RichardBouctouche, NB E4S 3T2",
+      "applyByfax": "506-743-7343",
+      "applyInPerson": "",
+      "applyOnline": ""
+    },
+    "meta": {
+      "id": "38269959"
+    },
+    "_id": "6455dd30179b8cf4ebd66d6f",
+    "id": 38269959,
+    "LMIA": "No",
+    "jobTitle": "RN (registered nurse)",
+    "employerName": "Manoir Saint-Jean-Baptiste Inc.",
+    "vacancy": "1 vacancy",
+    "salary": "$38.10 to $48.71HOUR hourly (to be negotiated)",
+    "jobType": "Permanent employmentFull time",
+    "shift": "Day, Night, Weekend, Shift",
+    "joblocation": "5 ave RichardBouctouche, NBE4S 3T2",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">Bilingual</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>Experience an asset</span> </p> <div property=\"\"> <h4>Work setting</h4> <ul class=\"csvlist\"> <li> <span>Nursing home/home for the aged</span> </li> </ul> </div> <div property=\"responsibilities\"> <h3>Responsibilities</h3> <h4>Tasks</h4> <ul class=\"csvlist\"> <li> <span>Assess patients to identify appropriate nursing interventions</span> </li> <li> <span>Collaborate to plan, implement, co-ordinate and evaluate patient care</span> </li> <li> <span>Deliver immunization programs</span> </li> <li> <span>Dispense and administer medications and treatments as prescribed by a physician</span> </li> <li> <span>Monitor, assess, address, document and report symptoms and changes in patients' conditions</span> </li> <li> <span>Provide nursing care</span> </li> <li> <span>Supervise licensed practical nurses and other nursing staff</span> </li> </ul> <h4>Supervision</h4> <ul class=\"csvlist\"> <li> <span>5-10 people</span> </li> </ul> </div> <div property=\"skills\"> <h3>Additional information</h3> <h4>Security and safety</h4> <ul class=\"csvlist\"> <li> <span>Adult Abuse Registry check</span> </li> <li> <span>Criminal record check</span> </li> <li> <span>Medical exam</span> </li> <li> <span>Tuberculosis test</span> </li> </ul> <h4>Work conditions and physical capabilities</h4> <ul class=\"csvlist\"> <li> <span>Attention to detail</span> </li> <li> <span>Bending, crouching, kneeling</span> </li> <li> <span>Physically demanding</span> </li> <li> <span>Sitting</span> </li> <li> <span>Standing for extended periods</span> </li> </ul> <h4>Personal suitability</h4> <ul class=\"csvlist\"> <li> <span>Accurate</span> </li> <li> <span>Client focus</span> </li> <li> <span>Efficient interpersonal skills</span> </li> <li> <span>Excellent oral communication</span> </li> <li> <span>Excellent written communication</span> </li> <li> <span>Flexibility</span> </li> <li> <span>Initiative</span> </li> <li> <span>Judgement</span> </li> <li> <span>Organized</span> </li> <li> <span>Reliability</span> </li> <li> <span>Team player</span> </li> </ul> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Dental plan</span> </li> <li> <span>Disability benefits</span> </li> <li> <span>Health care plan</span> </li> <li> <span>Vision care benefits</span> </li> </ul> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>As per collective agreement</span> </li> <li> <span>Bonus</span> </li> </ul> <h4>Long term benefits</h4> <ul class=\"csvlist\"> <li> <span>Group insurance benefits</span> </li> <li> <span>Life insurance</span> </li> <li> <span>Long-term care insurance</span> </li> <li> <span>Maternity and parental benefits</span> </li> <li> <span>Pension plan</span> </li> </ul> <h4>Other benefits</h4> <ul class=\"csvlist\"> <li> <span>Free parking available</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <span property=\"directApply\" class=\"wb-inv\">1</span> <section id=\"alert-share-container\" class=\"alert alert-info wb-inv\" aria-hidden=\"true\"> <ul><li>You have successfully applied for this job through Job Bank!</li></ul> </section> <section id=\"alert-withdraw-container\" class=\"alert alert-info wb-inv\" aria-hidden=\"true\"> <ul><li>You have successfully withdrawn your application for this job.</li></ul> </section> <span property=\"directApply\" class=\"wb-inv\">1</span> <h4>By applying directly on Job Bank (Direct Apply) <a href=\"#lightbox-resumesharing\" role=\"button\" class=\"dialog-help\" aria-controls=\"shareResumeInfo\" id=\"shareResumeInfo\"><span class=\"fa fa-question\"></span><span class=\"wb-inv\">Help - Applying directly on Job Bank (Direct Apply)</span></a> </h4> <section id=\"lightbox-resumesharing\" class=\" mfp-hide modal-dialog modal-content overlay-def \"> <header class=\"modal-header\"> <h2 class=\"modal-title\">Applying directly on Job Bank (Direct Apply) - Help</h2> </header> <div class=\"modal-body\"><p>You need <a href=\"https://www.jobbank.gc.ca/reg/instructions\">a Plus account</a> to apply for this job directly on Job Bank.</p><p>When you click on “Apply on Job Bank”, you will be asked to login to continue. If you already have a resume saved in your Plus account, you will be able to select and share it to apply. Otherwise, you will have to create or upload a new resume first.</p><p>If your application is retained, the employer will contact you using the information provided in your resume.</p> </div> </section><form id=\"applyresumesharing\" name=\"applyresumesharing\" method=\"post\" class=\"applyresumesharing\" enctype=\"application/x-www-form-urlencoded\" action=\"#\"> <p><input id=\"applyresumesharing:redirectbutton\" name=\"applyresumesharing:redirectbutton\" type=\"submit\" value=\"Apply on Job Bank\" class=\"btn btn-primary btn-submit redirectbutton\" data-redirect=\"/jobsearch/jobposting/38269959\"></p><input type=\"hidden\" name=\"applyresumesharing_SUBMIT\" value=\"1\"></form> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:ian.drapeau@manoirsjb.ca\">ian.drapeau@manoirsjb.ca</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4 id=\"htafax\"> By fax <span id=\"tp_unverifiedFaxNumber\" class=\"timepickler\"></span> </h4> <p>506-743-7343 <span id=\"tp_applyByFaxNumber\" class=\"timepickler\"></span> </p> <h4 id=\"htamail\"> By mail <span id=\"tp_unverifiedByAddressMailing\" class=\"timepickler\"></span> </h4> <p><span class=\"block_street\">5 ave Richard</span><span class=\"block_city\">Bouctouche, NB</span><span class=\"block_postalcode\"> E4S 3T2</span> <span id=\"tp_applyByMail\" class=\"timepickler\"></span> </p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Proof of the requested certifications</li></ul> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you currently legally able to work in Canada?</li> <li>Do you have the above-indicated required certifications?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "rn-(registered-nurse)-38269959",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "38.10-48.71",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "Manoir Saint-Jean-Baptiste Inc.",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "5 ave Richard",
+          "addressLocality": "Bouctouche",
+          "addressRegion": "New Brunswick ",
+          "postalCode": "E4S 3T2",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://canadajobbank.org/worker-landscape/#webpage"
+      },
+      "@type": "JobPosting",
+      "title": "RN (registered nurse)",
+      "description": "Look at this job opportunity for a RN (registered nurse) at Manoir Saint-Jean-Baptiste Inc. at 5 ave RichardBouctouche, NBE4S 3T2",
+      "datePosted": "2023-05-03",
+      "validThrough": "2023-05-21",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "6455dd30179b8cf4ebd66d70"
+    },
+    "__v": 0
+  },
+  {
+    "howToApplySchema": {
+      "emailToApply": "newbudge@gmail.com",
+      "applyByMail": "",
+      "applyByfax": "",
+      "applyInPerson": "",
+      "applyOnline": ""
+    },
+    "meta": {
+      "id": "38290970"
+    },
+    "_id": "645679b16f5a6fc18e3daf40",
+    "id": 38290970,
+    "LMIA": "No",
+    "jobTitle": "recruiting manager",
+    "employerName": "CARING HEARTS EMPLOYMENT SERVICES INC.",
+    "vacancy": "3 vacancies",
+    "salary": "$20.00HOUR hourly",
+    "jobType": "Permanent employmentFull time",
+    "shift": "Day, Early Morning, Morning",
+    "joblocation": "North York, ON",
+    "jobRequirement": " <h3> Overview </h3><div id=\"comparisonchart\" class=\"comparisonchart\"> <h4>Languages</h4> <p property=\"qualification\">English</p> <h4>Education</h4> <ul property=\"educationRequirements qualification\" class=\"csvlist \"> <li> <span class=\"wb-inv\"></span> <span>Bachelor's degree</span> </li> </ul> <h4>Experience</h4> <p property=\"experienceRequirements qualification\"> <span class=\"wb-inv\"></span> <span>2 years to less than 3 years</span> </p> <div property=\"skills\"> </div> <div property=\"jobBenefits\"> <h3>Benefits</h3> <h4>Health benefits</h4> <ul class=\"csvlist\"> <li> <span>Health care plan</span> </li> </ul> <h4>Financial benefits</h4> <ul class=\"csvlist\"> <li> <span>Bonus</span> </li> </ul> <h4>Other benefits</h4> <ul class=\"csvlist\"> <li> <span>Free parking available</span> </li> <li> <span>Learning/training paid by employer</span> </li> <li> <span>Team building opportunities</span> </li> <li> <span>Parking available</span> </li> <li> <span>Travel insurance</span> </li> </ul> </div></div> ",
+    "howToApply": "<h3>How to apply</h3> <span property=\"directApply\" class=\"wb-inv\">1</span> <section id=\"alert-share-container\" class=\"alert alert-info wb-inv\" aria-hidden=\"true\"> <ul><li>You have successfully applied for this job through Job Bank!</li></ul> </section> <section id=\"alert-withdraw-container\" class=\"alert alert-info wb-inv\" aria-hidden=\"true\"> <ul><li>You have successfully withdrawn your application for this job.</li></ul> </section> <span property=\"directApply\" class=\"wb-inv\">1</span> <h4>By applying directly on Job Bank (Direct Apply) <a href=\"#lightbox-resumesharing\" role=\"button\" class=\"dialog-help\" aria-controls=\"shareResumeInfo\" id=\"shareResumeInfo\"><span class=\"fa fa-question\"></span><span class=\"wb-inv\">Help - Applying directly on Job Bank (Direct Apply)</span></a> </h4> <section id=\"lightbox-resumesharing\" class=\" mfp-hide modal-dialog modal-content overlay-def \"> <header class=\"modal-header\"> <h2 class=\"modal-title\">Applying directly on Job Bank (Direct Apply) - Help</h2> </header> <div class=\"modal-body\"><p>You need <a href=\"https://www.jobbank.gc.ca/reg/instructions\">a Plus account</a> to apply for this job directly on Job Bank.</p><p>When you click on “Apply on Job Bank”, you will be asked to login to continue. If you already have a resume saved in your Plus account, you will be able to select and share it to apply. Otherwise, you will have to create or upload a new resume first.</p><p>If your application is retained, the employer will contact you using the information provided in your resume.</p> </div> </section><form id=\"applyresumesharing\" name=\"applyresumesharing\" method=\"post\" class=\"applyresumesharing\" enctype=\"application/x-www-form-urlencoded\" action=\"#\"> <p><input id=\"applyresumesharing:redirectbutton\" name=\"applyresumesharing:redirectbutton\" type=\"submit\" value=\"Apply on Job Bank\" class=\"btn btn-primary btn-submit redirectbutton\" data-redirect=\"/jobsearch/jobposting/38290970\"></p><input type=\"hidden\" name=\"applyresumesharing_SUBMIT\" value=\"1\"></form> <h4 id=\"htaemail\"> By email <span id=\"tp_unverifiedEmailAddress\" class=\"timepickler\"></span> </h4> <p> <a href=\"mailto:newbudge@gmail.com\">newbudge@gmail.com</a> <span id=\"tp_applyByEmailAddress\" class=\"timepickler\"></span> </p> <h4>Include this reference number in your application</h4> <p>20022<span id=\"tp_referenceNumber\" class=\"timepickler\"></span></p> <h4>How-to-apply instructions</h4> <p>Here is what you must include in your application:</p> <ul><li>Job reference number</li><li>Cover letter</li><li>Highest level of education and name of institution where it was completed</li></ul> <p>This job posting includes screening questions. Please answer the following questions when applying:</p> <ul> <li>Are you available for shift or on-call work?</li> <li>Are you available for the advertised start date?</li> <li>Are you willing to relocate for this position?</li> </ul> <div class=\"clearfix\"></div>",
+    "slug": "recruiting-manager-38290970",
+    "jobSchema": {
+      "baseSalary": {
+        "value": {
+          "value": "20.00",
+          "unitText": "HOUR"
+        },
+        "@type": "MonetaryAmount",
+        "currency": "CAD"
+      },
+      "hiringOrganization": {
+        "name": "CARING HEARTS EMPLOYMENT SERVICES INC.",
+        "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+      },
+      "jobLocation": {
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1000 Sheppard Ave W",
+          "addressLocality": "North York",
+          "addressRegion": "Ontario",
+          "postalCode": "M3H 2T6",
+          "addressCountry": "Canada"
+        },
+        "@type": "Place"
+      },
+      "image": {
+        "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://canadajobbank.org/worker-landscape/#webpage"
+      },
+      "@type": "JobPosting",
+      "title": "recruiting manager",
+      "description": "Look at this job opportunity for a recruiting manager at CARING HEARTS EMPLOYMENT SERVICES INC. at North York, ON",
+      "datePosted": "2023-05-06",
+      "validThrough": "2023-05-27",
+      "employmentType": ["FULL_TIME"],
+      "experienceInPlaceOfEducation": "False",
+      "@id": "https://canadajobbank.org/worker-landscape/#schema-680107",
+      "_id": "645679b16f5a6fc18e3daf41"
+    },
+    "__v": 0
+  }
+]
