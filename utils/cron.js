@@ -15,7 +15,9 @@ const {
  
 
 (async function () {
- 
+  await fetchJobBankJobs(
+    "https://www.jobbank.gc.ca/jobsearch/?page=1&sort=D"
+  );
   // await updateNullJobRequirement();
    if (process.env.NODE_ENV !== "development") {
     
