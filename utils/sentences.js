@@ -68,6 +68,7 @@ async function generateParagraph({
       jobLocation,
       jobTitle,
     });
+  
     const sentence2 = await db.IntroductionSentences.findOne({
       sentenceOrder: "sentence_2",
     });
@@ -128,6 +129,24 @@ async function generateParagraph({
 
 // function selectAndReplaceDataFrom
 
+// create a function to add introsenteceto
+
+async function addIntroTodb(){
+
+  const sentences3 = [
+    "The candidate will also have the option of working remotely.",
+    "The applicant may also work remotely.",
+    "Applicants will also have an opportunity to work remotely.",
+    "Candidates may also be able to work remotely.",
+  ];
+  const intro = await db.IntroductionSentences.create({
+    sentenceOrder:'sentence_6',
+    options:sentences3
+  })
+  console.log(' sentence_3 is Added to DB')
+
+}
+// addIntroTodb()
 module.exports = {
   generateIntroduction,
 };

@@ -259,24 +259,24 @@ async function getJobSchemaById(id) {
       return values.join(", ");
     }
 
-    // const introduction = await generateIntroduction({
-    //   jobTitle: capitalizeFirstLetter(jobTitle),
-    //   jobLocation: joblocation,
-    //   LMIA: lmia?.includes("LMIA") ? "Yes" : "No",
-    //   employerName: hiringOrganization,
-    //   shift: shift,
-    //   jobType: jobType
-    //     ? jobType.replace("employmentFull", "employment or Full")
-    //     : "",
-    //   isRemote: isRemoteJob,
-    // });
+    const introduction = await generateIntroduction({
+      jobTitle: capitalizeFirstLetter(jobTitle),
+      jobLocation: joblocation,
+      LMIA: lmia?.includes("LMIA") ? "Yes" : "No",
+      employerName: hiringOrganization,
+      shift: shift,
+      jobType: jobType
+        ? jobType.replace("employmentFull", "employment or Full")
+        : "",
+      isRemote: isRemoteJob,
+    });
     
     const formattedDescription = "";
 
     const jobDetails = {
       jobTitle: capitalizeFirstLetter(jobTitle),
       id: parseInt(id),
-      // introTest: introduction,
+      introTest: introduction,
       featuredImg: defaultimg,
       jobPostingWidget: {
         LMIA: lmia?.includes("LMIA") ? "Yes" : "No",
@@ -309,7 +309,7 @@ async function getJobSchemaById(id) {
       }),
       meta: {
         id,
-        // description: introduction,
+        description: introduction,
         title: metaTitle,
         slug: slugify(jobTitle.toLowerCase() + "-" + id, {
           replacement: "-",
@@ -317,7 +317,7 @@ async function getJobSchemaById(id) {
           lower: true,
         }),
       },
-      // introduction: introduction,
+      introduction: introduction,
       jobPostingSchema: {
         
         title: jobTitleFormatter(),
@@ -386,10 +386,7 @@ async function getJobSchemaById(id) {
     console.log("Not Available");
   }
 }
-// (async()=>{
-//   const j = await getJobSchemaById(45143126);
-//   console.log({j})
-// })()
+ 
 
 function findTwoLetterWordsInCapital(text) {
   const words = text.split(" ");

@@ -4,7 +4,8 @@ const db = require("../models/");
 const chalk = require("chalk");
 
 const { getJobSchemaById } = require("./scraper");
-const { generateIntroduction } = require("./chatgpt");
+const { generateIntroduction } = require("./sentences");
+// const { capitalizeFirstLetter } = require("./sentences");
 const { createKeyValuePair } = require("./sentences/keyValue");
 const jobRequrementGenerator = require("./jobRequirementGenerator");
 const defaultimgs = require("../data/links.json");
@@ -352,6 +353,33 @@ async function generateGPTData(id, force = false) {
     }
   }
 }
+
+(async () => {
+  const job = await db.Job.findOne({ id: "45192965" });
+
+ return
+  if(job){
+  
+    const introduction = await generateIntroduction({
+      
+      jobTitle: capitalizeFirstLetter(job.jobTitle),
+      jobLocation: job.jobPostingWidget.joblocation,
+      LMIA: job.lmia?.includes("LMIA") ? "Yes" : "No",
+      employerName: job.jobPostingWidget.employerName,
+      shift: job.shift,
+      jobType: job.jobPostingWidget.jobType
+        ? job.jobPostingWidget.jobType.replace("employmentFull", "employment or Full")
+        : "",
+      isRemote: false,
+    });
+    console.log({introduction})
+
+
+  }else{
+    console.log('Job not in DB')
+  }
+ 
+})();
 // Function to remove the howToApply field from all records
 // async function removeAllHowToApply() {
 //   try {

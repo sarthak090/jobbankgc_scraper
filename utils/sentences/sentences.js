@@ -174,7 +174,11 @@ async function updateSentenceOptions2({ heading, sentenceTitle, options }) {
   });
 }
 async function updateSentenceOptionsCSV({ heading, sentenceTitle, options }) {
-  console.log(options);
+  
+  if(options===undefined){
+    console.log('No Options present')
+    return
+  }
   try {
     const result = await db.SentencesOptions.updateOne(
       { heading, "sentences.title": sentenceTitle },

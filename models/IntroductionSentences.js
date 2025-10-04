@@ -2,16 +2,16 @@ const mongoose = require("mongoose");
 const mongoosePaginate = require("mongoose-paginate-v2");
 
 var introductionSentencesSchema = new mongoose.Schema({
-  title: {
-    type: String,
-    unique: true,
-    required: true,
-  },
-  wordsToReplace: {
-    type: [String],
+  // title: {
+  //   type: String,
+  //   unique: true,
+  //   required: true,
+  // },
+  // wordsToReplace: {
+  //   type: [String],
 
-    required: true,
-  },
+  //   required: true,
+  // },
   options: { type: [String], unique: true, required: true },
   sentenceOrder: { type: String, unique: true, required: true },
 });

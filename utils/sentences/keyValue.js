@@ -10,11 +10,12 @@ function createKeyValuePair($) {
     return;
   }
 
+  
   var data = {};
   var language = $('div#comparisonchart h4:contains("Languages")').next(
     'p[property="qualification"]'
   );
-
+  // console.log($('div#comparisonchart').text())
   if (language.length) {
     data.languages = [];
     data.languages.push(language.text().trim());
