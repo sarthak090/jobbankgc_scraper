@@ -12,10 +12,12 @@ const {
   findJobsWithLogo,
   init,
 } = require("./DBformatter");
+const { checkAndAddSentence } = require("./sentences/sentences");
  
 
 (async function () {
-  
+  const t = "https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=M&fprov=BC&fsrc=16"
+ 
   // await updateNullJobRequirement();
    if (process.env.NODE_ENV !== "development") {
     
@@ -25,6 +27,7 @@ const {
     });
 
     cron.schedule("34 * * * *", async () => {
+      await checkAndAddSentence()
       await fetchJobBankJobs(
         "https://www.jobbank.gc.ca/jobsearch/?page=1&sort=D"
       );

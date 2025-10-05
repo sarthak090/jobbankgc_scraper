@@ -164,6 +164,8 @@ async function getJobSchemaById(id) {
       .text()
       .replace(" Posted on ", "")
       .replace("\n\t\t\t", "");
+
+
     const experienceRequirements = $(
       '[property="experienceRequirements qualification"]'
     )
@@ -184,8 +186,10 @@ async function getJobSchemaById(id) {
     const value = maxValue ? `${minValue}-${maxValue}` : minValue;
     const dP = format(new Date(dateString), "MMMM dd, yyyy");
     const datePosted = format(new Date(dP), "yyyy-MM-dd");
+    
     const vt = format(new Date(validDateString), "MMMM dd, yyyy");
     const validThrough = format(new Date(vt), "yyyy-MM-dd");
+    
     var instructionsListJq = applyNowData(
       'h4:contains("How-to-apply instructions") '
     ).siblings("ul");
@@ -232,7 +236,7 @@ async function getJobSchemaById(id) {
     }
     const metaTitle = `Hiring: ${capitalizeFirstLetter(
       jobTitle
-    )} | ${joblocation} - ${meta_title.length > 0 ? meta_title : "CanadaIn"}`;
+    )} | ${joblocation} - ${meta_title.length > 0 ? meta_title : ""}`;
     const formatSalary = (str = "") => {
       return str.replace("HOUR", "").replace("WEEKLY", "").replace("YEAR", "");
     };
@@ -387,7 +391,7 @@ async function getJobSchemaById(id) {
   }
 }
  
-
+ 
 function findTwoLetterWordsInCapital(text) {
   const words = text.split(" ");
 

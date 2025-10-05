@@ -45,12 +45,54 @@ if(meta_titles_db[0].title !==meta_title){
 
 // Read all links
 router.get("/meta-title", async (req, res) => {
-  // const links = await readLinksFile();
-  const meta_titles_db = await db.MetaTitle.find({}).limit(2);
-  const oldMetaTitle = meta_titles_db[1];
-  const newMetaTitle = meta_titles_db[0];
+  try {
+    // Validate database connection
+    if (!db || !db.MetaTitle) {
+      return res.status(500).json({ 
+        error: "Database connection not available" 
+      });
+    }
 
-  return res.json({ oldMetaTitle, newMetaTitle });
+    // Fetch meta titles from database
+    const meta_titles_db = await db.MetaTitle.find({}).limit(2);
+    
+    // Validate that we have at least one record
+    if (!meta_titles_db || meta_titles_db.length === 0) {
+      return res.status(404).json({ 
+        error: "No meta titles found in database" 
+      });
+    }
+
+    // Extract titles safely with fallbacks
+    const oldMetaTitle = meta_titles_db.length > 1 ? meta_titles_db[1] : null;
+    const newMetaTitle = meta_titles_db[0] || null;
+
+    // Validate that we have the required data
+    if (!newMetaTitle) {
+      return res.status(404).json({ 
+        error: "No current meta title found" 
+      });
+    }
+
+    return res.json({ 
+      oldMetaTitle, 
+      newMetaTitle,
+      count: meta_titles_db.length 
+    });
+  } catch (err) {
+    console.error("Error fetching meta titles:", err);
+    return res.status(500).json({ 
+      error: "Internal server error while fetching meta titles",
+      message: "Please try again later"
+    });
+  }
 });
 
+// (()=>{
+//   db.MetaTitle.create({title:'CanadaIn'}).then(()=>{
+//     console.log('MetaTitle created')
+//   }).catch((err)=>{
+//     console.log(err)
+//   })
+// })()
 module.exports = router;

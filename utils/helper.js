@@ -37,14 +37,15 @@ async function getAllLinks(url) {
   const $ = cheerio.load(res.data);
 
   const hrefLinksOf = $("a.resultJobItem");
-
+  
   let linksToFetch = [];
 
   hrefLinksOf.each((i, el) => {
     linksToFetch.push($(el).parent().attr("id").split("-").slice(-1)[0]);
   });
-
+  
   const filteredLinks = await getNonExistingIDs(linksToFetch);
+ 
   return filteredLinks;
 }
 
@@ -309,6 +310,8 @@ async function generateGPTData(id, force = false) {
       }
 
       if (job.jobRequirement_old === undefined && typeof job.jobRequirement === 'string') {
+
+         
         const keyValue = createKeyValuePair(cheerio.load(job.jobRequirement));
 
         const description = await jobRequrementGenerator(keyValue);
@@ -354,32 +357,7 @@ async function generateGPTData(id, force = false) {
   }
 }
 
-(async () => {
-  const job = await db.Job.findOne({ id: "45192965" });
-
- return
-  if(job){
-  
-    const introduction = await generateIntroduction({
-      
-      jobTitle: capitalizeFirstLetter(job.jobTitle),
-      jobLocation: job.jobPostingWidget.joblocation,
-      LMIA: job.lmia?.includes("LMIA") ? "Yes" : "No",
-      employerName: job.jobPostingWidget.employerName,
-      shift: job.shift,
-      jobType: job.jobPostingWidget.jobType
-        ? job.jobPostingWidget.jobType.replace("employmentFull", "employment or Full")
-        : "",
-      isRemote: false,
-    });
-    console.log({introduction})
-
-
-  }else{
-    console.log('Job not in DB')
-  }
  
-})();
 // Function to remove the howToApply field from all records
 // async function removeAllHowToApply() {
 //   try {
@@ -478,7 +456,7 @@ async function updateNullJobRequirement() {
   }
 }
 
-updateNullJobRequirement();
+ 
 async function deleteRecordsWithUndefinedOrNullOrOldJobRequirement() {
   try {
     const result = await db.Job.deleteMany({
@@ -578,13 +556,18 @@ async function fetchJobBankJobs(url) {
     console.log("No Links found from " + url);
     return;
   }
-  
+ 
   links.map(async (id) => {
+    
     try {
       const checkIfExist = await db.Job.find({ id: id });
 
       if (checkIfExist.length === 0) {
         let j = await getJobSchemaById(id);
+         if(j == undefined ){
+          console.log('Not a valid jobs')
+          return 
+         }
         
         if (j&&j.jobPostingWidget == undefined) {
           return;
@@ -632,7 +615,7 @@ async function fetchJobBankJobs(url) {
       } else {
         console.log(chalk.yellow("Job is already in database"));
       }
-  await updateOldFeaturedImage()
+  // await updateOldFeaturedImage()
 
     } catch (err) {
       console.log({ err });

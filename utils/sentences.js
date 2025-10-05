@@ -146,6 +146,16 @@ async function addIntroTodb(){
   console.log(' sentence_3 is Added to DB')
 
 }
+
+async function updateSentence(){
+  const sentence = await db.IntroductionSentences.findOne({
+    sentenceOrder: "sentence_2",
+  });
+  sentence.title = "General";
+  await sentence.save();
+  console.log(' title  is Updated ')
+}
+// updateSentence()
 // addIntroTodb()
 module.exports = {
   generateIntroduction,

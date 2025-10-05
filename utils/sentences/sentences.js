@@ -13,13 +13,14 @@ async function createnewSentence() {
   });
   const jobs = await db.Job.find({
     date: { $gte: oneWeekAgo, $lt: currentDate },
-  }).select("jobRequirement_old");
+  }).select("jobRequirement_old")
 
   jobs.forEach((job) => {
     if (job.jobRequirement_old) {
       const keyValuePair = createKeyValuePair(
         cheerio.load(job.jobRequirement_old)
       );
+      
       Object.keys(keyValuePair).map((key) => {
         if (key == "skills") {
           Object.keys(keyValuePair["skills"]).map((key) => {
@@ -34,13 +35,17 @@ async function createnewSentence() {
     }
   });
 }
-// createnewSentence();
+
+// deleteAllRecords()
+
+ 
 async function removeAllDuplicated() {
   const sentences = await db.Sentences.find({}).select("_id");
   sentences.forEach(async (sentence) => {
     await removeDuplicateSentences(sentence._id);
   });
 }
+
 // removeAllDuplicated();
 async function removeDuplicateSentences(headingId) {
   try {
@@ -84,26 +89,62 @@ async function createSentenceWithHeading(heading, sentences) {
 // Function to check if a sentence exists in a specific heading and add it if missing
 async function checkAndAddSentence(heading, sentence) {
   try {
-    const existingHeading = await db.Sentences.findOne({ heading });
-    if (existingHeading && !existingHeading.sentences.includes(sentence)) {
-      existingHeading.sentences.push(sentence);
-      await existingHeading.save();
+    const normHeading = heading.trim();
+    const normSentence = sentence.trim().replace(/\s+/g, " ");
+
+    // 1) Try to add the sentence ONLY if it's not already present
+    const res = await db.SentencesOptions.updateOne(
+      { heading: normHeading, "sentences.title": { $ne: normSentence } },
+      { $push: { sentences: { title: normSentence, options: [] } } },
+      { upsert: false } // <-- important: no upsert here
+    );
+
+    if (res.modifiedCount > 0) {
       console.log(
         chalk.bgYellow.green(
-          `Sentence '${sentence}' added to the heading '${heading}'.`
+          `Sentence '${normSentence}' added to the heading '${normHeading}'.`
         )
       );
-    } else if (!existingHeading) {
-      await db.Sentences.create({ heading, sentences: [sentence] });
+      return;
+    }
+
+    // 2) If we didn’t modify anything, either:
+    //    a) heading exists AND sentence already exists  -> skip
+    //    b) heading doesn't exist -> create it
+    const headingExists = await db.SentencesOptions.exists({ heading: normHeading });
+
+    if (headingExists) {
       console.log(
         chalk.blueBright(
-          `New Heading =>'${heading}' created with sentence '${sentence}'.`
+          `Skipped: sentence '${normSentence}' already exists under '${normHeading}'.`
         )
       );
+      return;
     }
+
+    // 3) Create new heading with the sentence
+    await db.SentencesOptions.create({
+      heading: normHeading,
+      sentences: [{ title: normSentence, options: [] }],
+    });
+
+    console.log(
+      chalk.blueBright(
+        `New Heading =>'${normHeading}' created with sentence '${normSentence}'.`
+      )
+    );
   } catch (error) {
+    // If you later add a compound unique index (see below), ignore dup errors gracefully
+    if (error?.code === 11000) {
+      console.log(
+        chalk.blueBright(
+          `Duplicate detected; skipping insert for '${sentence}' under '${heading}'.`
+        )
+      );
+      return;
+    }
     console.error(
-      `Error checking and adding sentence '${sentence}' in heading '${heading}':`,
+      `Error checking/adding sentence '${sentence}' in heading '${heading}':`,
       error
     );
   }
@@ -112,6 +153,10 @@ async function checkAndAddSentence(heading, sentence) {
 // Function to check each sentence inside a given heading and add the missing ones
 async function checkAndAddSentencesInHeading(heading, sentences) {
   try {
+    if (!sentences || !sentences.length) {
+      return;
+    }
+    
     for (const sentence of sentences) {
       await checkAndAddSentence(heading, sentence);
     }
@@ -134,7 +179,7 @@ async function createNewSentencesOption() {
   });
   const newSentenceOption = await db.SentencesOptions.create({
     heading: sentence.heading,
-    sentences: sentence.sentences.map((s) => ({ title: s })),
+    sentences: sentence.sentences.map((s) => ({ title: s, options: [] })),
   });
   console.log(newSentenceOption);
 }
@@ -174,7 +219,7 @@ async function updateSentenceOptions2({ heading, sentenceTitle, options }) {
   });
 }
 async function updateSentenceOptionsCSV({ heading, sentenceTitle, options }) {
-  
+ 
   if(options===undefined){
     console.log('No Options present')
     return
@@ -184,6 +229,9 @@ async function updateSentenceOptionsCSV({ heading, sentenceTitle, options }) {
       { heading, "sentences.title": sentenceTitle },
       { $set: { "sentences.$.options": options } }
     );
+   
+   
+
 
     if (result.nModified === 0) {
       console.log("No document found or options already exist.");
@@ -264,7 +312,7 @@ async function deleteOption({ heading, sentenceTitle, optionToDelete }) {
 
 async function deleteAllRecords() {
   try {
-    await db.Sentences.deleteMany({});
+    await db.SentencesOptions.deleteMany({});
     console.log("All records deleted successfully.");
   } catch (error) {
     console.error("Error deleting records:", error);
@@ -485,11 +533,15 @@ function checkDuplicates(arr, prop) {
 
   return duplicates;
 }
+
+
+
 module.exports = {
   updateSentenceOptions,
   updateSentenceOptionsCSV,
   addNewSentences,
   removeDuplicateTitles,
   removeDuplicatesByHeading,
+  checkAndAddSentence
 };
 // deleteAllRecords();

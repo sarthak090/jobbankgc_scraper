@@ -595,7 +595,7 @@ module.exports = {
   updateOldFeaturedImage,
   findJobsWithLogo,
   updateTitleInJobs,
-  init
+  // init
 };
 
 // findAllJobWithoutEmployerAndAddEmployerTODatabas();

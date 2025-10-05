@@ -2,11 +2,11 @@ const mongoose = require("mongoose");
 const mongoosePaginate = require("mongoose-paginate-v2");
 
 var introductionSentencesSchema = new mongoose.Schema({
-  // title: {
-  //   type: String,
-  //   unique: true,
-  //   required: true,
-  // },
+  title: {
+    type: String,
+    // unique: true,
+    // required: true,
+  },
   // wordsToReplace: {
   //   type: [String],
 

@@ -214,8 +214,9 @@ router.post("/:slug/import-csv", (req, res) => {
       .on("data", (data) => results.push(data))
       .on("end", async () => {
         // Process the imported data
+         
         const formattedData = formatSentences(results, slug);
-
+         
         await formattedData.forEach(async (csvData) => {
           try {
             await updateSentenceOptionsCSV(csvData);

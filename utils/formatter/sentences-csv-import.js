@@ -1,5 +1,5 @@
 function formatSentences(data, mainHeading) {
-  console.log({data,mainHeading})
+  
   if (!data || !mainHeading) {
     return [];
   }
